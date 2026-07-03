@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "CargaOpinionesClientes.Load": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
+{
+  "ConnectionStrings": {
+    "ClienteOpinionesDB": "Data Source=JEAN;Initial Catalog=ClienteOpinionesDB;Integrated Security=True;TrustServerCertificate=True;Encrypt=True;"
+  }
+}

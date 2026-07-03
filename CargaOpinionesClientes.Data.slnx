@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CargaOpinionesClientes.Data/CargaOpinionesClientes.Data.csproj" />
+  <Project Path="CargaOpinionesClientes.Load/CargaOpinionesClientes.Load.csproj" />
+</Solution>
