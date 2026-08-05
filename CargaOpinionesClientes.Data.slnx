@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="CargaOpinionesClientes.Data/CargaOpinionesClientes.Data.csproj" />
   <Project Path="CargaOpinionesClientes.Load/CargaOpinionesClientes.Load.csproj" />
+  <Project Path="CargaOpinionesClientes.Worker/CargaOpinionesClientes.Worker.csproj" Id="bf09389f-b2a2-4c45-8a54-a97079d683ab" />
 </Solution>
