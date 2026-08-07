@@ -1,4 +1,4 @@
-﻿namespace CargaOpinionesClientes.Worker.Models;
+﻿namespace CargaOpinionesClientes.Worker.Models.Extraction;
 
 public class ExtractionResult
 {

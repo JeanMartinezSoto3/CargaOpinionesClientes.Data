@@ -1,18 +1,58 @@
 using CargaOpinionesClientes.Worker;
 using CargaOpinionesClientes.Worker.Extractors;
 using CargaOpinionesClientes.Worker.Interfaces;
+using CargaOpinionesClientes.Worker.Persistence;
 using CargaOpinionesClientes.Worker.Services;
+using Microsoft.EntityFrameworkCore;
 
 var builder =
     Host.CreateApplicationBuilder(args);
 
-builder.Services.AddHostedService<Worker>();
+var transactionalConnection =
+    builder.Configuration.GetConnectionString(
+        "TransactionalDatabase")
+    ?? throw new InvalidOperationException(
+        "No se encontró TransactionalDatabase.");
 
-builder.Services.AddSingleton<
-    ExtractionOrchestratorService>();
+var warehouseConnection =
+    builder.Configuration.GetConnectionString(
+        "DataWarehouseDatabase")
+    ?? throw new InvalidOperationException(
+        "No se encontró DataWarehouseDatabase.");
+
+builder.Services.AddDbContext<TransactionalDbContext>(
+    options =>
+    {
+        options.UseSqlServer(
+            transactionalConnection,
+            sqlOptions =>
+            {
+                sqlOptions.CommandTimeout(60);
+                sqlOptions.EnableRetryOnFailure();
+            });
+    });
+
+builder.Services.AddDbContext<DataWarehouseDbContext>(
+    options =>
+    {
+        options.UseSqlServer(
+            warehouseConnection,
+            sqlOptions =>
+            {
+                sqlOptions.CommandTimeout(60);
+                sqlOptions.EnableRetryOnFailure();
+            });
+    });
+
+builder.Services.AddScoped<
+    IDimensionLoadService,
+    DimensionLoadService>();
 
 builder.Services.AddSingleton<
     StagingWriterService>();
+
+builder.Services.AddSingleton<
+    ExtractionOrchestratorService>();
 
 builder.Services.AddSingleton<
     IExtractor,
@@ -37,6 +77,8 @@ builder.Services.AddHttpClient(
             "User-Agent",
             "CargaOpinionesClientes.Worker");
     });
+
+builder.Services.AddHostedService<Worker>();
 
 var host = builder.Build();
 

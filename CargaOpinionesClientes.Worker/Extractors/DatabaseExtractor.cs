@@ -1,5 +1,5 @@
 ﻿using CargaOpinionesClientes.Worker.Interfaces;
-using CargaOpinionesClientes.Worker.Models;
+using CargaOpinionesClientes.Worker.Models.Extraction;
 using Microsoft.Data.SqlClient;
 
 namespace CargaOpinionesClientes.Worker.Extractors;

@@ -1,5 +1,5 @@
 ﻿using System.Text.Json;
-using CargaOpinionesClientes.Worker.Models;
+using CargaOpinionesClientes.Worker.Models.Extraction;
 
 namespace CargaOpinionesClientes.Worker.Services;
 

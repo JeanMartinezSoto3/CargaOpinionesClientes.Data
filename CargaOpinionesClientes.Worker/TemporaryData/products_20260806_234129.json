@@ -1,0 +1,1802 @@
+[
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "1",
+      "Nombre": "Producto_1",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "2",
+      "Nombre": "Producto_2",
+      "Categor\u00EDa": "Electr\u00F3nica"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "3",
+      "Nombre": "Producto_3",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "4",
+      "Nombre": "Producto_4",
+      "Categor\u00EDa": "Ropa"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "5",
+      "Nombre": "Producto_5",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "6",
+      "Nombre": "Producto_6",
+      "Categor\u00EDa": "Hogar"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "7",
+      "Nombre": "Producto_7",
+      "Categor\u00EDa": "Ropa"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "8",
+      "Nombre": "Producto_8",
+      "Categor\u00EDa": "Deportes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "9",
+      "Nombre": "Producto_9",
+      "Categor\u00EDa": "Hogar"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "10",
+      "Nombre": "Producto_10",
+      "Categor\u00EDa": "Electr\u00F3nica"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "11",
+      "Nombre": "Producto_11",
+      "Categor\u00EDa": "Hogar"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "12",
+      "Nombre": "Producto_12",
+      "Categor\u00EDa": "Hogar"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "13",
+      "Nombre": "Producto_13",
+      "Categor\u00EDa": "Electr\u00F3nica"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "14",
+      "Nombre": "Producto_14",
+      "Categor\u00EDa": "Hogar"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "15",
+      "Nombre": "Producto_15",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "16",
+      "Nombre": "Producto_16",
+      "Categor\u00EDa": "Deportes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "17",
+      "Nombre": "Producto_17",
+      "Categor\u00EDa": "Electr\u00F3nica"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "18",
+      "Nombre": "Producto_18",
+      "Categor\u00EDa": "Ropa"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "19",
+      "Nombre": "Producto_19",
+      "Categor\u00EDa": "Deportes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "20",
+      "Nombre": "Producto_20",
+      "Categor\u00EDa": "Ropa"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "21",
+      "Nombre": "Producto_21",
+      "Categor\u00EDa": "Deportes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "22",
+      "Nombre": "Producto_22",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "23",
+      "Nombre": "Producto_23",
+      "Categor\u00EDa": "Deportes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "24",
+      "Nombre": "Producto_24",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "25",
+      "Nombre": "Producto_25",
+      "Categor\u00EDa": "Deportes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "26",
+      "Nombre": "Producto_26",
+      "Categor\u00EDa": "Hogar"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "27",
+      "Nombre": "Producto_27",
+      "Categor\u00EDa": "Ropa"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "28",
+      "Nombre": "Producto_28",
+      "Categor\u00EDa": "Hogar"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "29",
+      "Nombre": "Producto_29",
+      "Categor\u00EDa": "Electr\u00F3nica"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "30",
+      "Nombre": "Producto_30",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "31",
+      "Nombre": "Producto_31",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "32",
+      "Nombre": "Producto_32",
+      "Categor\u00EDa": "Hogar"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "33",
+      "Nombre": "Producto_33",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "34",
+      "Nombre": "Producto_34",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "35",
+      "Nombre": "Producto_35",
+      "Categor\u00EDa": "Hogar"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "36",
+      "Nombre": "Producto_36",
+      "Categor\u00EDa": "Hogar"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "37",
+      "Nombre": "Producto_37",
+      "Categor\u00EDa": "Hogar"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "38",
+      "Nombre": "Producto_38",
+      "Categor\u00EDa": "Ropa"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "39",
+      "Nombre": "Producto_39",
+      "Categor\u00EDa": "Electr\u00F3nica"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "40",
+      "Nombre": "Producto_40",
+      "Categor\u00EDa": "Electr\u00F3nica"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "41",
+      "Nombre": "Producto_41",
+      "Categor\u00EDa": "Electr\u00F3nica"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "42",
+      "Nombre": "Producto_42",
+      "Categor\u00EDa": "Hogar"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "43",
+      "Nombre": "Producto_43",
+      "Categor\u00EDa": "Hogar"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "44",
+      "Nombre": "Producto_44",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "45",
+      "Nombre": "Producto_45",
+      "Categor\u00EDa": "Electr\u00F3nica"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "46",
+      "Nombre": "Producto_46",
+      "Categor\u00EDa": "Deportes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "47",
+      "Nombre": "Producto_47",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "48",
+      "Nombre": "Producto_48",
+      "Categor\u00EDa": "Hogar"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "49",
+      "Nombre": "Producto_49",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "50",
+      "Nombre": "Producto_50",
+      "Categor\u00EDa": "Ropa"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "51",
+      "Nombre": "Producto_51",
+      "Categor\u00EDa": "Electr\u00F3nica"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "52",
+      "Nombre": "Producto_52",
+      "Categor\u00EDa": "Electr\u00F3nica"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "53",
+      "Nombre": "Producto_53",
+      "Categor\u00EDa": "Hogar"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "54",
+      "Nombre": "Producto_54",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "55",
+      "Nombre": "Producto_55",
+      "Categor\u00EDa": "Deportes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "56",
+      "Nombre": "Producto_56",
+      "Categor\u00EDa": "Electr\u00F3nica"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "57",
+      "Nombre": "Producto_57",
+      "Categor\u00EDa": "Deportes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "58",
+      "Nombre": "Producto_58",
+      "Categor\u00EDa": "Electr\u00F3nica"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "59",
+      "Nombre": "Producto_59",
+      "Categor\u00EDa": "Ropa"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "60",
+      "Nombre": "Producto_60",
+      "Categor\u00EDa": "Electr\u00F3nica"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "61",
+      "Nombre": "Producto_61",
+      "Categor\u00EDa": "Hogar"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "62",
+      "Nombre": "Producto_62",
+      "Categor\u00EDa": "Ropa"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "63",
+      "Nombre": "Producto_63",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "64",
+      "Nombre": "Producto_64",
+      "Categor\u00EDa": "Hogar"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "65",
+      "Nombre": "Producto_65",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "66",
+      "Nombre": "Producto_66",
+      "Categor\u00EDa": "Electr\u00F3nica"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "67",
+      "Nombre": "Producto_67",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "68",
+      "Nombre": "Producto_68",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "69",
+      "Nombre": "Producto_69",
+      "Categor\u00EDa": "Ropa"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "70",
+      "Nombre": "Producto_70",
+      "Categor\u00EDa": "Electr\u00F3nica"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "71",
+      "Nombre": "Producto_71",
+      "Categor\u00EDa": "Deportes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "72",
+      "Nombre": "Producto_72",
+      "Categor\u00EDa": "Electr\u00F3nica"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "73",
+      "Nombre": "Producto_73",
+      "Categor\u00EDa": "Deportes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "74",
+      "Nombre": "Producto_74",
+      "Categor\u00EDa": "Electr\u00F3nica"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "75",
+      "Nombre": "Producto_75",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "76",
+      "Nombre": "Producto_76",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "77",
+      "Nombre": "Producto_77",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "78",
+      "Nombre": "Producto_78",
+      "Categor\u00EDa": "Electr\u00F3nica"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "79",
+      "Nombre": "Producto_79",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "80",
+      "Nombre": "Producto_80",
+      "Categor\u00EDa": "Hogar"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "81",
+      "Nombre": "Producto_81",
+      "Categor\u00EDa": "Electr\u00F3nica"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "82",
+      "Nombre": "Producto_82",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "83",
+      "Nombre": "Producto_83",
+      "Categor\u00EDa": "Deportes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "84",
+      "Nombre": "Producto_84",
+      "Categor\u00EDa": "Ropa"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "85",
+      "Nombre": "Producto_85",
+      "Categor\u00EDa": "Hogar"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "86",
+      "Nombre": "Producto_86",
+      "Categor\u00EDa": "Hogar"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "87",
+      "Nombre": "Producto_87",
+      "Categor\u00EDa": "Ropa"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "88",
+      "Nombre": "Producto_88",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "89",
+      "Nombre": "Producto_89",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "90",
+      "Nombre": "Producto_90",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "91",
+      "Nombre": "Producto_91",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "92",
+      "Nombre": "Producto_92",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "93",
+      "Nombre": "Producto_93",
+      "Categor\u00EDa": "Deportes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "94",
+      "Nombre": "Producto_94",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "95",
+      "Nombre": "Producto_95",
+      "Categor\u00EDa": "Ropa"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "96",
+      "Nombre": "Producto_96",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "97",
+      "Nombre": "Producto_97",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "98",
+      "Nombre": "Producto_98",
+      "Categor\u00EDa": "Deportes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "99",
+      "Nombre": "Producto_99",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "100",
+      "Nombre": "Producto_100",
+      "Categor\u00EDa": "Ropa"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "101",
+      "Nombre": "Producto_101",
+      "Categor\u00EDa": "Hogar"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "102",
+      "Nombre": "Producto_102",
+      "Categor\u00EDa": "Electr\u00F3nica"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "103",
+      "Nombre": "Producto_103",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "104",
+      "Nombre": "Producto_104",
+      "Categor\u00EDa": "Hogar"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "105",
+      "Nombre": "Producto_105",
+      "Categor\u00EDa": "Electr\u00F3nica"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "106",
+      "Nombre": "Producto_106",
+      "Categor\u00EDa": "Deportes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "107",
+      "Nombre": "Producto_107",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "108",
+      "Nombre": "Producto_108",
+      "Categor\u00EDa": "Electr\u00F3nica"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "109",
+      "Nombre": "Producto_109",
+      "Categor\u00EDa": "Electr\u00F3nica"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "110",
+      "Nombre": "Producto_110",
+      "Categor\u00EDa": "Hogar"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "111",
+      "Nombre": "Producto_111",
+      "Categor\u00EDa": "Ropa"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "112",
+      "Nombre": "Producto_112",
+      "Categor\u00EDa": "Deportes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "113",
+      "Nombre": "Producto_113",
+      "Categor\u00EDa": "Hogar"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "114",
+      "Nombre": "Producto_114",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "115",
+      "Nombre": "Producto_115",
+      "Categor\u00EDa": "Deportes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "116",
+      "Nombre": "Producto_116",
+      "Categor\u00EDa": "Ropa"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "117",
+      "Nombre": "Producto_117",
+      "Categor\u00EDa": "Ropa"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "118",
+      "Nombre": "Producto_118",
+      "Categor\u00EDa": "Electr\u00F3nica"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "119",
+      "Nombre": "Producto_119",
+      "Categor\u00EDa": "Hogar"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "120",
+      "Nombre": "Producto_120",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "121",
+      "Nombre": "Producto_121",
+      "Categor\u00EDa": "Deportes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "122",
+      "Nombre": "Producto_122",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "123",
+      "Nombre": "Producto_123",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "124",
+      "Nombre": "Producto_124",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "125",
+      "Nombre": "Producto_125",
+      "Categor\u00EDa": "Deportes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "126",
+      "Nombre": "Producto_126",
+      "Categor\u00EDa": "Electr\u00F3nica"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "127",
+      "Nombre": "Producto_127",
+      "Categor\u00EDa": "Deportes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "128",
+      "Nombre": "Producto_128",
+      "Categor\u00EDa": "Deportes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "129",
+      "Nombre": "Producto_129",
+      "Categor\u00EDa": "Deportes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "130",
+      "Nombre": "Producto_130",
+      "Categor\u00EDa": "Electr\u00F3nica"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "131",
+      "Nombre": "Producto_131",
+      "Categor\u00EDa": "Ropa"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "132",
+      "Nombre": "Producto_132",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "133",
+      "Nombre": "Producto_133",
+      "Categor\u00EDa": "Hogar"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "134",
+      "Nombre": "Producto_134",
+      "Categor\u00EDa": "Hogar"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "135",
+      "Nombre": "Producto_135",
+      "Categor\u00EDa": "Hogar"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "136",
+      "Nombre": "Producto_136",
+      "Categor\u00EDa": "Ropa"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "137",
+      "Nombre": "Producto_137",
+      "Categor\u00EDa": "Electr\u00F3nica"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "138",
+      "Nombre": "Producto_138",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "139",
+      "Nombre": "Producto_139",
+      "Categor\u00EDa": "Ropa"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "140",
+      "Nombre": "Producto_140",
+      "Categor\u00EDa": "Electr\u00F3nica"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "141",
+      "Nombre": "Producto_141",
+      "Categor\u00EDa": "Deportes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "142",
+      "Nombre": "Producto_142",
+      "Categor\u00EDa": "Hogar"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "143",
+      "Nombre": "Producto_143",
+      "Categor\u00EDa": "Ropa"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "144",
+      "Nombre": "Producto_144",
+      "Categor\u00EDa": "Hogar"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "145",
+      "Nombre": "Producto_145",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "146",
+      "Nombre": "Producto_146",
+      "Categor\u00EDa": "Electr\u00F3nica"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "147",
+      "Nombre": "Producto_147",
+      "Categor\u00EDa": "Ropa"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "148",
+      "Nombre": "Producto_148",
+      "Categor\u00EDa": "Hogar"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "149",
+      "Nombre": "Producto_149",
+      "Categor\u00EDa": "Hogar"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "150",
+      "Nombre": "Producto_150",
+      "Categor\u00EDa": "Ropa"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "151",
+      "Nombre": "Producto_151",
+      "Categor\u00EDa": "Ropa"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "152",
+      "Nombre": "Producto_152",
+      "Categor\u00EDa": "Electr\u00F3nica"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "153",
+      "Nombre": "Producto_153",
+      "Categor\u00EDa": "Hogar"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "154",
+      "Nombre": "Producto_154",
+      "Categor\u00EDa": "Electr\u00F3nica"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "155",
+      "Nombre": "Producto_155",
+      "Categor\u00EDa": "Deportes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "156",
+      "Nombre": "Producto_156",
+      "Categor\u00EDa": "Ropa"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "157",
+      "Nombre": "Producto_157",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "158",
+      "Nombre": "Producto_158",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "159",
+      "Nombre": "Producto_159",
+      "Categor\u00EDa": "Deportes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "160",
+      "Nombre": "Producto_160",
+      "Categor\u00EDa": "Electr\u00F3nica"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "161",
+      "Nombre": "Producto_161",
+      "Categor\u00EDa": "Ropa"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "162",
+      "Nombre": "Producto_162",
+      "Categor\u00EDa": "Hogar"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "163",
+      "Nombre": "Producto_163",
+      "Categor\u00EDa": "Ropa"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "164",
+      "Nombre": "Producto_164",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "165",
+      "Nombre": "Producto_165",
+      "Categor\u00EDa": "Electr\u00F3nica"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "166",
+      "Nombre": "Producto_166",
+      "Categor\u00EDa": "Deportes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "167",
+      "Nombre": "Producto_167",
+      "Categor\u00EDa": "Hogar"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "168",
+      "Nombre": "Producto_168",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "169",
+      "Nombre": "Producto_169",
+      "Categor\u00EDa": "Ropa"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "170",
+      "Nombre": "Producto_170",
+      "Categor\u00EDa": "Electr\u00F3nica"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "171",
+      "Nombre": "Producto_171",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "172",
+      "Nombre": "Producto_172",
+      "Categor\u00EDa": "Hogar"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "173",
+      "Nombre": "Producto_173",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "174",
+      "Nombre": "Producto_174",
+      "Categor\u00EDa": "Deportes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "175",
+      "Nombre": "Producto_175",
+      "Categor\u00EDa": "Deportes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "176",
+      "Nombre": "Producto_176",
+      "Categor\u00EDa": "Ropa"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "177",
+      "Nombre": "Producto_177",
+      "Categor\u00EDa": "Deportes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "178",
+      "Nombre": "Producto_178",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "179",
+      "Nombre": "Producto_179",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "180",
+      "Nombre": "Producto_180",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "181",
+      "Nombre": "Producto_181",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "182",
+      "Nombre": "Producto_182",
+      "Categor\u00EDa": "Deportes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "183",
+      "Nombre": "Producto_183",
+      "Categor\u00EDa": "Hogar"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "184",
+      "Nombre": "Producto_184",
+      "Categor\u00EDa": "Deportes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "185",
+      "Nombre": "Producto_185",
+      "Categor\u00EDa": "Hogar"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "186",
+      "Nombre": "Producto_186",
+      "Categor\u00EDa": "Hogar"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "187",
+      "Nombre": "Producto_187",
+      "Categor\u00EDa": "Juguetes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "188",
+      "Nombre": "Producto_188",
+      "Categor\u00EDa": "Deportes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "189",
+      "Nombre": "Producto_189",
+      "Categor\u00EDa": "Ropa"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "190",
+      "Nombre": "Producto_190",
+      "Categor\u00EDa": "Hogar"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "191",
+      "Nombre": "Producto_191",
+      "Categor\u00EDa": "Electr\u00F3nica"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "192",
+      "Nombre": "Producto_192",
+      "Categor\u00EDa": "Hogar"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "193",
+      "Nombre": "Producto_193",
+      "Categor\u00EDa": "Ropa"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "194",
+      "Nombre": "Producto_194",
+      "Categor\u00EDa": "Deportes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "195",
+      "Nombre": "Producto_195",
+      "Categor\u00EDa": "Deportes"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "196",
+      "Nombre": "Producto_196",
+      "Categor\u00EDa": "Hogar"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "197",
+      "Nombre": "Producto_197",
+      "Categor\u00EDa": "Electr\u00F3nica"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "198",
+      "Nombre": "Producto_198",
+      "Categor\u00EDa": "Ropa"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "199",
+      "Nombre": "Producto_199",
+      "Categor\u00EDa": "Ropa"
+    }
+  },
+  {
+    "Source": "products.csv",
+    "DataType": "Productos",
+    "Data": {
+      "IdProducto": "200",
+      "Nombre": "Producto_200",
+      "Categor\u00EDa": "Hogar"
+    }
+  }
+]

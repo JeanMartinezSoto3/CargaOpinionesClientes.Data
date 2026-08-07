@@ -1,23 +1,23 @@
+using CargaOpinionesClientes.Worker.Interfaces;
 using CargaOpinionesClientes.Worker.Services;
 
 namespace CargaOpinionesClientes.Worker;
 
 public class Worker : BackgroundService
 {
-    private readonly ExtractionOrchestratorService
-        _orchestrator;
-
+    private readonly ExtractionOrchestratorService _orchestrator;
+    private readonly IServiceScopeFactory _scopeFactory;
     private readonly ILogger<Worker> _logger;
-
-    private readonly IHostApplicationLifetime
-        _applicationLifetime;
+    private readonly IHostApplicationLifetime _applicationLifetime;
 
     public Worker(
         ExtractionOrchestratorService orchestrator,
+        IServiceScopeFactory scopeFactory,
         ILogger<Worker> logger,
         IHostApplicationLifetime applicationLifetime)
     {
         _orchestrator = orchestrator;
+        _scopeFactory = scopeFactory;
         _logger = logger;
         _applicationLifetime = applicationLifetime;
     }
@@ -29,7 +29,7 @@ public class Worker : BackgroundService
             "=======================================");
 
         Console.WriteLine(
-            " WORKER SERVICE - EXTRACCION ETL");
+            " WORKER SERVICE - PROCESO ETL");
 
         Console.WriteLine(
             "=======================================");
@@ -39,29 +39,83 @@ public class Worker : BackgroundService
 
         try
         {
+            // =============================================
+            // 1. EXTRACCIÓN
+            // =============================================
+
+            Console.WriteLine();
+            Console.WriteLine(
+                "INICIANDO ETAPA DE EXTRACCION...");
+            Console.WriteLine();
+
             await _orchestrator.ExecuteAsync(
                 stoppingToken);
 
             _logger.LogInformation(
                 "Proceso de extracción finalizado correctamente.");
 
+            // =============================================
+            // 2. CARGA DE DIMENSIONES
+            // =============================================
+
             Console.WriteLine();
             Console.WriteLine(
-                "Proceso de extracción finalizado correctamente.");
+                "INICIANDO CARGA DE DIMENSIONES...");
+            Console.WriteLine();
+
+            _logger.LogInformation(
+                "Iniciando carga de dimensiones.");
+
+            using var scope =
+                _scopeFactory.CreateScope();
+
+            var dimensionLoadService =
+                scope.ServiceProvider
+                    .GetRequiredService<IDimensionLoadService>();
+
+            await dimensionLoadService.LoadDimensionsAsync(
+                stoppingToken);
+
+            // =============================================
+            // FIN
+            // =============================================
+
+            _logger.LogInformation(
+                "Proceso ETL finalizado correctamente.");
+
+            Console.WriteLine();
+            Console.WriteLine(
+                "=======================================");
+
+            Console.WriteLine(
+                " PROCESO FINALIZADO CORRECTAMENTE");
+
+            Console.WriteLine(
+                "=======================================");
+
+            Console.WriteLine(
+                "Extracción y carga de dimensiones completadas.");
         }
         catch (OperationCanceledException)
         {
             _logger.LogWarning(
+                "El proceso fue cancelado.");
+
+            Console.WriteLine(
                 "El proceso fue cancelado.");
         }
         catch (Exception ex)
         {
             _logger.LogError(
                 ex,
-                "Error general durante el proceso de extracción.");
+                "Error general durante el proceso ETL.");
+
+            Console.WriteLine();
+            Console.WriteLine(
+                "ERROR DURANTE EL PROCESO:");
 
             Console.WriteLine(
-                $"Error general: {ex.Message}");
+                ex.Message);
         }
         finally
         {

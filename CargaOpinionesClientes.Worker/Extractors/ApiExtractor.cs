@@ -1,6 +1,6 @@
 ﻿using System.Text.Json;
 using CargaOpinionesClientes.Worker.Interfaces;
-using CargaOpinionesClientes.Worker.Models;
+using CargaOpinionesClientes.Worker.Models.Extraction;
 
 namespace CargaOpinionesClientes.Worker.Extractors;
 

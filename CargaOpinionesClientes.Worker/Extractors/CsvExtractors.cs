@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 using CargaOpinionesClientes.Worker.Interfaces;
-using CargaOpinionesClientes.Worker.Models;
+using CargaOpinionesClientes.Worker.Models.Extraction;
 using CsvHelper;
 using CsvHelper.Configuration;
 
