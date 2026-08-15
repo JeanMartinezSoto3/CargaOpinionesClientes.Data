@@ -1,0 +1,5726 @@
+[
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 1,
+      "IdExterno": "124",
+      "TipoOpinion": "ENCUESTA",
+      "IdCliente": 382,
+      "IdProducto": 131,
+      "IdFuente": 4,
+      "Fecha": "2024-12-19T00:00:00",
+      "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
+      "Clasificacion": "Neutra",
+      "PuntajeSatisfaccion": 3,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.8051817"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 2,
+      "IdExterno": "158",
+      "TipoOpinion": "ENCUESTA",
+      "IdCliente": 283,
+      "IdProducto": 87,
+      "IdFuente": 4,
+      "Fecha": "2025-06-03T00:00:00",
+      "Comentario": "No era lo que esperaba, muy decepcionado.",
+      "Clasificacion": "Negativa",
+      "PuntajeSatisfaccion": 2,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.8051817"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 3,
+      "IdExterno": "206",
+      "TipoOpinion": "ENCUESTA",
+      "IdCliente": 190,
+      "IdProducto": 148,
+      "IdFuente": 4,
+      "Fecha": "2025-03-08T00:00:00",
+      "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
+      "Clasificacion": "Positiva",
+      "PuntajeSatisfaccion": 4,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.8051817"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 4,
+      "IdExterno": "221",
+      "TipoOpinion": "ENCUESTA",
+      "IdCliente": 353,
+      "IdProducto": 124,
+      "IdFuente": 4,
+      "Fecha": "2025-01-01T00:00:00",
+      "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
+      "Clasificacion": "Negativa",
+      "PuntajeSatisfaccion": 1,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.8051817"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 5,
+      "IdExterno": "284",
+      "TipoOpinion": "ENCUESTA",
+      "IdCliente": 157,
+      "IdProducto": 57,
+      "IdFuente": 4,
+      "Fecha": "2024-11-24T00:00:00",
+      "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
+      "Clasificacion": "Neutra",
+      "PuntajeSatisfaccion": 3,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.8051817"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 6,
+      "IdExterno": "442",
+      "TipoOpinion": "ENCUESTA",
+      "IdCliente": 470,
+      "IdProducto": 29,
+      "IdFuente": 4,
+      "Fecha": "2025-07-02T00:00:00",
+      "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
+      "Clasificacion": "Positiva",
+      "PuntajeSatisfaccion": 4,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.8051817"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 7,
+      "IdExterno": "W0001",
+      "TipoOpinion": "WEB",
+      "IdCliente": 7,
+      "IdProducto": 16,
+      "IdFuente": 1,
+      "Fecha": "2024-10-23T00:00:00",
+      "Comentario": "Producto lleg\u00F3 r\u00E1pido y funciona perfecto. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 4,
+      "FechaRegistro": "2026-07-03T00:21:02.848628"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 8,
+      "IdExterno": "W0002",
+      "TipoOpinion": "WEB",
+      "IdCliente": 28,
+      "IdProducto": 5,
+      "IdFuente": 1,
+      "Fecha": "2024-10-15T00:00:00",
+      "Comentario": "Gran relaci\u00F3n calidad-precio. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 3,
+      "FechaRegistro": "2026-07-03T00:21:02.848628"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 9,
+      "IdExterno": "W0003",
+      "TipoOpinion": "WEB",
+      "IdCliente": 35,
+      "IdProducto": 20,
+      "IdFuente": 1,
+      "Fecha": "2025-02-02T00:00:00",
+      "Comentario": "Entrega correcta, sin comentarios adicionales. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 5,
+      "FechaRegistro": "2026-07-03T00:21:02.848628"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 10,
+      "IdExterno": "W0004",
+      "TipoOpinion": "WEB",
+      "IdCliente": 21,
+      "IdProducto": 9,
+      "IdFuente": 1,
+      "Fecha": "2025-04-24T00:00:00",
+      "Comentario": "Producto recibido, cumple su funci\u00F3n. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 4,
+      "FechaRegistro": "2026-07-03T00:21:02.848628"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 11,
+      "IdExterno": "W0005",
+      "TipoOpinion": "WEB",
+      "IdCliente": 30,
+      "IdProducto": 8,
+      "IdFuente": 1,
+      "Fecha": "2025-03-25T00:00:00",
+      "Comentario": "No cumple con lo anunciado, insatisfecho. No volver\u00EDa a comprar.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 1,
+      "FechaRegistro": "2026-07-03T00:21:02.848628"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 12,
+      "IdExterno": "W0006",
+      "TipoOpinion": "WEB",
+      "IdCliente": 21,
+      "IdProducto": 16,
+      "IdFuente": 1,
+      "Fecha": "2025-03-16T00:00:00",
+      "Comentario": "Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 3,
+      "FechaRegistro": "2026-07-03T00:21:02.848628"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 13,
+      "IdExterno": "W0007",
+      "TipoOpinion": "WEB",
+      "IdCliente": 18,
+      "IdProducto": 11,
+      "IdFuente": 1,
+      "Fecha": "2024-12-03T00:00:00",
+      "Comentario": "Es lo que esperaba, nada excepcional. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 1,
+      "FechaRegistro": "2026-07-03T00:21:02.848628"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 14,
+      "IdExterno": "W0008",
+      "TipoOpinion": "WEB",
+      "IdCliente": 13,
+      "IdProducto": 17,
+      "IdFuente": 1,
+      "Fecha": "2025-01-06T00:00:00",
+      "Comentario": "Calidad superior, muy contento. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 5,
+      "FechaRegistro": "2026-07-03T00:21:02.848628"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 15,
+      "IdExterno": "W0009",
+      "TipoOpinion": "WEB",
+      "IdCliente": 31,
+      "IdProducto": 8,
+      "IdFuente": 1,
+      "Fecha": "2025-01-27T00:00:00",
+      "Comentario": "No cumple con lo anunciado, insatisfecho. No volver\u00EDa a comprar.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 1,
+      "FechaRegistro": "2026-07-03T00:21:02.848628"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 16,
+      "IdExterno": "W0010",
+      "TipoOpinion": "WEB",
+      "IdCliente": 19,
+      "IdProducto": 3,
+      "IdFuente": 1,
+      "Fecha": "2025-04-10T00:00:00",
+      "Comentario": "Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 5,
+      "FechaRegistro": "2026-07-03T00:21:02.848628"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 17,
+      "IdExterno": "W0011",
+      "TipoOpinion": "WEB",
+      "IdCliente": 31,
+      "IdProducto": 12,
+      "IdFuente": 1,
+      "Fecha": "2025-02-08T00:00:00",
+      "Comentario": "Env\u00EDo tard\u00EDo y producto da\u00F1ado. No volver\u00EDa a comprar.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 5,
+      "FechaRegistro": "2026-07-03T00:21:02.848628"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 18,
+      "IdExterno": "W0012",
+      "TipoOpinion": "WEB",
+      "IdCliente": 23,
+      "IdProducto": 11,
+      "IdFuente": 1,
+      "Fecha": "2025-04-10T00:00:00",
+      "Comentario": "Es lo que esperaba, nada excepcional. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 3,
+      "FechaRegistro": "2026-07-03T00:21:02.848628"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 19,
+      "IdExterno": "W0013",
+      "TipoOpinion": "WEB",
+      "IdCliente": 8,
+      "IdProducto": 8,
+      "IdFuente": 1,
+      "Fecha": "2025-07-14T00:00:00",
+      "Comentario": "Es lo que esperaba, nada excepcional. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 5,
+      "FechaRegistro": "2026-07-03T00:21:02.848628"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 20,
+      "IdExterno": "W0014",
+      "TipoOpinion": "WEB",
+      "IdCliente": 13,
+      "IdProducto": 6,
+      "IdFuente": 1,
+      "Fecha": "2025-04-25T00:00:00",
+      "Comentario": "Calidad superior, muy contento. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 5,
+      "FechaRegistro": "2026-07-03T00:21:02.848628"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 21,
+      "IdExterno": "W0015",
+      "TipoOpinion": "WEB",
+      "IdCliente": 39,
+      "IdProducto": 17,
+      "IdFuente": 1,
+      "Fecha": "2025-06-06T00:00:00",
+      "Comentario": "Me encanta este producto, excelente calidad. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 3,
+      "FechaRegistro": "2026-07-03T00:21:02.848628"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 22,
+      "IdExterno": "W0016",
+      "TipoOpinion": "WEB",
+      "IdCliente": 24,
+      "IdProducto": 8,
+      "IdFuente": 1,
+      "Fecha": "2024-09-16T00:00:00",
+      "Comentario": "Me encanta este producto, excelente calidad. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 5,
+      "FechaRegistro": "2026-07-03T00:21:02.848628"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 23,
+      "IdExterno": "W0017",
+      "TipoOpinion": "WEB",
+      "IdCliente": 18,
+      "IdProducto": 5,
+      "IdFuente": 1,
+      "Fecha": "2024-12-04T00:00:00",
+      "Comentario": "Me encanta este producto, excelente calidad. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 3,
+      "FechaRegistro": "2026-07-03T00:21:02.848628"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 24,
+      "IdExterno": "W0018",
+      "TipoOpinion": "WEB",
+      "IdCliente": 32,
+      "IdProducto": 5,
+      "IdFuente": 1,
+      "Fecha": "2024-11-24T00:00:00",
+      "Comentario": "Me encanta este producto, excelente calidad. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 3,
+      "FechaRegistro": "2026-07-03T00:21:02.848628"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 25,
+      "IdExterno": "W0019",
+      "TipoOpinion": "WEB",
+      "IdCliente": 31,
+      "IdProducto": 16,
+      "IdFuente": 1,
+      "Fecha": "2025-08-18T00:00:00",
+      "Comentario": "Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 3,
+      "FechaRegistro": "2026-07-03T00:21:02.848628"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 26,
+      "IdExterno": "W0020",
+      "TipoOpinion": "WEB",
+      "IdCliente": 8,
+      "IdProducto": 16,
+      "IdFuente": 1,
+      "Fecha": "2025-01-05T00:00:00",
+      "Comentario": "Entrega correcta, sin comentarios adicionales. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 1,
+      "FechaRegistro": "2026-07-03T00:21:02.848628"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 27,
+      "IdExterno": "W0021",
+      "TipoOpinion": "WEB",
+      "IdCliente": 4,
+      "IdProducto": 19,
+      "IdFuente": 1,
+      "Fecha": "2025-04-11T00:00:00",
+      "Comentario": "Gran relaci\u00F3n calidad-precio. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 1,
+      "FechaRegistro": "2026-07-03T00:21:02.848628"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 28,
+      "IdExterno": "W0022",
+      "TipoOpinion": "WEB",
+      "IdCliente": 8,
+      "IdProducto": 8,
+      "IdFuente": 1,
+      "Fecha": "2024-11-07T00:00:00",
+      "Comentario": "No cumple con lo anunciado, insatisfecho. No volver\u00EDa a comprar.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 5,
+      "FechaRegistro": "2026-07-03T00:21:02.848628"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 29,
+      "IdExterno": "W0023",
+      "TipoOpinion": "WEB",
+      "IdCliente": 15,
+      "IdProducto": 20,
+      "IdFuente": 1,
+      "Fecha": "2025-01-26T00:00:00",
+      "Comentario": "Entrega correcta, sin comentarios adicionales. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 4,
+      "FechaRegistro": "2026-07-03T00:21:02.848628"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 30,
+      "IdExterno": "W0024",
+      "TipoOpinion": "WEB",
+      "IdCliente": 38,
+      "IdProducto": 10,
+      "IdFuente": 1,
+      "Fecha": "2024-11-26T00:00:00",
+      "Comentario": "Es lo que esperaba, nada excepcional. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 5,
+      "FechaRegistro": "2026-07-03T00:21:02.848628"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 31,
+      "IdExterno": "W0025",
+      "TipoOpinion": "WEB",
+      "IdCliente": 40,
+      "IdProducto": 2,
+      "IdFuente": 1,
+      "Fecha": "2025-05-30T00:00:00",
+      "Comentario": "Producto recibido, cumple su funci\u00F3n. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 2,
+      "FechaRegistro": "2026-07-03T00:21:02.848628"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 32,
+      "IdExterno": "W0026",
+      "TipoOpinion": "WEB",
+      "IdCliente": 6,
+      "IdProducto": 9,
+      "IdFuente": 1,
+      "Fecha": "2024-12-05T00:00:00",
+      "Comentario": "Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 1,
+      "FechaRegistro": "2026-07-03T00:21:02.848628"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 33,
+      "IdExterno": "W0027",
+      "TipoOpinion": "WEB",
+      "IdCliente": 1,
+      "IdProducto": 6,
+      "IdFuente": 1,
+      "Fecha": "2025-01-16T00:00:00",
+      "Comentario": "Gran relaci\u00F3n calidad-precio. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 3,
+      "FechaRegistro": "2026-07-03T00:21:02.848628"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 34,
+      "IdExterno": "W0028",
+      "TipoOpinion": "WEB",
+      "IdCliente": 15,
+      "IdProducto": 2,
+      "IdFuente": 1,
+      "Fecha": "2024-09-19T00:00:00",
+      "Comentario": "Producto lleg\u00F3 r\u00E1pido y funciona perfecto. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 4,
+      "FechaRegistro": "2026-07-03T00:21:02.848628"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 35,
+      "IdExterno": "W0029",
+      "TipoOpinion": "WEB",
+      "IdCliente": 15,
+      "IdProducto": 3,
+      "IdFuente": 1,
+      "Fecha": "2024-10-10T00:00:00",
+      "Comentario": "Satisface lo b\u00E1sico. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 2,
+      "FechaRegistro": "2026-07-03T00:21:02.848628"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 36,
+      "IdExterno": "W0030",
+      "TipoOpinion": "WEB",
+      "IdCliente": 8,
+      "IdProducto": 14,
+      "IdFuente": 1,
+      "Fecha": "2025-04-30T00:00:00",
+      "Comentario": "No funciona como esperaba, decepcionado. No volver\u00EDa a comprar.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 2,
+      "FechaRegistro": "2026-07-03T00:21:02.848628"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 37,
+      "IdExterno": "W0031",
+      "TipoOpinion": "WEB",
+      "IdCliente": 4,
+      "IdProducto": 3,
+      "IdFuente": 1,
+      "Fecha": "2024-11-13T00:00:00",
+      "Comentario": "Producto lleg\u00F3 r\u00E1pido y funciona perfecto. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 5,
+      "FechaRegistro": "2026-07-03T00:21:02.848628"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 38,
+      "IdExterno": "W0032",
+      "TipoOpinion": "WEB",
+      "IdCliente": 29,
+      "IdProducto": 10,
+      "IdFuente": 1,
+      "Fecha": "2024-09-20T00:00:00",
+      "Comentario": "Producto lleg\u00F3 r\u00E1pido y funciona perfecto. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 4,
+      "FechaRegistro": "2026-07-03T00:21:02.848628"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 39,
+      "IdExterno": "W0033",
+      "TipoOpinion": "WEB",
+      "IdCliente": 33,
+      "IdProducto": 9,
+      "IdFuente": 1,
+      "Fecha": "2025-08-03T00:00:00",
+      "Comentario": "No cumple con lo anunciado, insatisfecho. No volver\u00EDa a comprar.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 5,
+      "FechaRegistro": "2026-07-03T00:21:02.848628"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 40,
+      "IdExterno": "W0034",
+      "TipoOpinion": "WEB",
+      "IdCliente": 28,
+      "IdProducto": 2,
+      "IdFuente": 1,
+      "Fecha": "2025-05-08T00:00:00",
+      "Comentario": "Satisface lo b\u00E1sico. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 1,
+      "FechaRegistro": "2026-07-03T00:21:02.848628"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 41,
+      "IdExterno": "W0035",
+      "TipoOpinion": "WEB",
+      "IdCliente": 15,
+      "IdProducto": 3,
+      "IdFuente": 1,
+      "Fecha": "2024-11-17T00:00:00",
+      "Comentario": "Satisface lo b\u00E1sico. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 1,
+      "FechaRegistro": "2026-07-03T00:21:02.848628"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 42,
+      "IdExterno": "W0036",
+      "TipoOpinion": "WEB",
+      "IdCliente": 37,
+      "IdProducto": 9,
+      "IdFuente": 1,
+      "Fecha": "2025-01-16T00:00:00",
+      "Comentario": "Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 5,
+      "FechaRegistro": "2026-07-03T00:21:02.848628"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 43,
+      "IdExterno": "W0037",
+      "TipoOpinion": "WEB",
+      "IdCliente": 18,
+      "IdProducto": 15,
+      "IdFuente": 1,
+      "Fecha": "2025-02-02T00:00:00",
+      "Comentario": "Gran relaci\u00F3n calidad-precio. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 4,
+      "FechaRegistro": "2026-07-03T00:21:02.848628"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 44,
+      "IdExterno": "W0038",
+      "TipoOpinion": "WEB",
+      "IdCliente": 31,
+      "IdProducto": 3,
+      "IdFuente": 1,
+      "Fecha": "2025-04-02T00:00:00",
+      "Comentario": "Producto lleg\u00F3 r\u00E1pido y funciona perfecto. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 1,
+      "FechaRegistro": "2026-07-03T00:21:02.848628"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 45,
+      "IdExterno": "W0039",
+      "TipoOpinion": "WEB",
+      "IdCliente": 22,
+      "IdProducto": 6,
+      "IdFuente": 1,
+      "Fecha": "2025-04-19T00:00:00",
+      "Comentario": "Calidad superior, muy contento. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 4,
+      "FechaRegistro": "2026-07-03T00:21:02.848628"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 46,
+      "IdExterno": "W0040",
+      "TipoOpinion": "WEB",
+      "IdCliente": 3,
+      "IdProducto": 18,
+      "IdFuente": 1,
+      "Fecha": "2025-05-07T00:00:00",
+      "Comentario": "Env\u00EDo tard\u00EDo y producto da\u00F1ado. No volver\u00EDa a comprar.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 3,
+      "FechaRegistro": "2026-07-03T00:21:02.848628"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 47,
+      "IdExterno": "W0041",
+      "TipoOpinion": "WEB",
+      "IdCliente": 26,
+      "IdProducto": 4,
+      "IdFuente": 1,
+      "Fecha": "2024-10-12T00:00:00",
+      "Comentario": "Producto recibido, cumple su funci\u00F3n. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 5,
+      "FechaRegistro": "2026-07-03T00:21:02.848628"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 48,
+      "IdExterno": "W0042",
+      "TipoOpinion": "WEB",
+      "IdCliente": 27,
+      "IdProducto": 15,
+      "IdFuente": 1,
+      "Fecha": "2025-03-12T00:00:00",
+      "Comentario": "Gran relaci\u00F3n calidad-precio. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 5,
+      "FechaRegistro": "2026-07-03T00:21:02.848628"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 49,
+      "IdExterno": "W0043",
+      "TipoOpinion": "WEB",
+      "IdCliente": 29,
+      "IdProducto": 16,
+      "IdFuente": 1,
+      "Fecha": "2025-04-30T00:00:00",
+      "Comentario": "Informaci\u00F3n suficiente, sin mayor novedad. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 5,
+      "FechaRegistro": "2026-07-03T00:21:02.851132"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 50,
+      "IdExterno": "W0044",
+      "TipoOpinion": "WEB",
+      "IdCliente": 19,
+      "IdProducto": 5,
+      "IdFuente": 1,
+      "Fecha": "2025-07-13T00:00:00",
+      "Comentario": "Calidad superior, muy contento. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 1,
+      "FechaRegistro": "2026-07-03T00:21:02.851132"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 51,
+      "IdExterno": "W0045",
+      "TipoOpinion": "WEB",
+      "IdCliente": 16,
+      "IdProducto": 20,
+      "IdFuente": 1,
+      "Fecha": "2024-12-05T00:00:00",
+      "Comentario": "Es lo que esperaba, nada excepcional. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 1,
+      "FechaRegistro": "2026-07-03T00:21:02.851132"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 52,
+      "IdExterno": "W0046",
+      "TipoOpinion": "WEB",
+      "IdCliente": 27,
+      "IdProducto": 18,
+      "IdFuente": 1,
+      "Fecha": "2025-01-20T00:00:00",
+      "Comentario": "Me encanta este producto, excelente calidad. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 1,
+      "FechaRegistro": "2026-07-03T00:21:02.851132"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 53,
+      "IdExterno": "W0047",
+      "TipoOpinion": "WEB",
+      "IdCliente": 32,
+      "IdProducto": 5,
+      "IdFuente": 1,
+      "Fecha": "2024-12-27T00:00:00",
+      "Comentario": "Es lo que esperaba, nada excepcional. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 3,
+      "FechaRegistro": "2026-07-03T00:21:02.851132"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 54,
+      "IdExterno": "W0048",
+      "TipoOpinion": "WEB",
+      "IdCliente": 31,
+      "IdProducto": 14,
+      "IdFuente": 1,
+      "Fecha": "2025-01-23T00:00:00",
+      "Comentario": "Informaci\u00F3n suficiente, sin mayor novedad. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 5,
+      "FechaRegistro": "2026-07-03T00:21:02.851132"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 55,
+      "IdExterno": "W0049",
+      "TipoOpinion": "WEB",
+      "IdCliente": 25,
+      "IdProducto": 5,
+      "IdFuente": 1,
+      "Fecha": "2024-12-27T00:00:00",
+      "Comentario": "Gran relaci\u00F3n calidad-precio. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 2,
+      "FechaRegistro": "2026-07-03T00:21:02.851132"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 56,
+      "IdExterno": "W0050",
+      "TipoOpinion": "WEB",
+      "IdCliente": 18,
+      "IdProducto": 3,
+      "IdFuente": 1,
+      "Fecha": "2025-03-23T00:00:00",
+      "Comentario": "Entrega correcta, sin comentarios adicionales. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 5,
+      "FechaRegistro": "2026-07-03T00:21:02.851132"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 57,
+      "IdExterno": "W0051",
+      "TipoOpinion": "WEB",
+      "IdCliente": 1,
+      "IdProducto": 9,
+      "IdFuente": 1,
+      "Fecha": "2024-11-17T00:00:00",
+      "Comentario": "Producto lleg\u00F3 r\u00E1pido y funciona perfecto. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 5,
+      "FechaRegistro": "2026-07-03T00:21:02.851132"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 58,
+      "IdExterno": "W0052",
+      "TipoOpinion": "WEB",
+      "IdCliente": 10,
+      "IdProducto": 16,
+      "IdFuente": 1,
+      "Fecha": "2025-03-21T00:00:00",
+      "Comentario": "Calidad superior, muy contento. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 3,
+      "FechaRegistro": "2026-07-03T00:21:02.851132"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 59,
+      "IdExterno": "W0053",
+      "TipoOpinion": "WEB",
+      "IdCliente": 35,
+      "IdProducto": 18,
+      "IdFuente": 1,
+      "Fecha": "2025-06-09T00:00:00",
+      "Comentario": "Producto lleg\u00F3 r\u00E1pido y funciona perfecto. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 2,
+      "FechaRegistro": "2026-07-03T00:21:02.851132"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 60,
+      "IdExterno": "W0054",
+      "TipoOpinion": "WEB",
+      "IdCliente": 25,
+      "IdProducto": 19,
+      "IdFuente": 1,
+      "Fecha": "2025-08-22T00:00:00",
+      "Comentario": "Calidad superior, muy contento. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 3,
+      "FechaRegistro": "2026-07-03T00:21:02.851132"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 61,
+      "IdExterno": "W0055",
+      "TipoOpinion": "WEB",
+      "IdCliente": 25,
+      "IdProducto": 16,
+      "IdFuente": 1,
+      "Fecha": "2025-01-03T00:00:00",
+      "Comentario": "Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 1,
+      "FechaRegistro": "2026-07-03T00:21:02.851132"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 62,
+      "IdExterno": "W0056",
+      "TipoOpinion": "WEB",
+      "IdCliente": 33,
+      "IdProducto": 5,
+      "IdFuente": 1,
+      "Fecha": "2025-07-24T00:00:00",
+      "Comentario": "Es lo que esperaba, nada excepcional. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 4,
+      "FechaRegistro": "2026-07-03T00:21:02.851132"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 63,
+      "IdExterno": "W0057",
+      "TipoOpinion": "WEB",
+      "IdCliente": 34,
+      "IdProducto": 4,
+      "IdFuente": 1,
+      "Fecha": "2025-07-02T00:00:00",
+      "Comentario": "Producto recibido, cumple su funci\u00F3n. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 4,
+      "FechaRegistro": "2026-07-03T00:21:02.851132"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 64,
+      "IdExterno": "W0058",
+      "TipoOpinion": "WEB",
+      "IdCliente": 5,
+      "IdProducto": 5,
+      "IdFuente": 1,
+      "Fecha": "2025-03-24T00:00:00",
+      "Comentario": "Env\u00EDo tard\u00EDo y producto da\u00F1ado. No volver\u00EDa a comprar.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 5,
+      "FechaRegistro": "2026-07-03T00:21:02.851132"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 65,
+      "IdExterno": "W0059",
+      "TipoOpinion": "WEB",
+      "IdCliente": 6,
+      "IdProducto": 13,
+      "IdFuente": 1,
+      "Fecha": "2025-03-03T00:00:00",
+      "Comentario": "Satisface lo b\u00E1sico. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 3,
+      "FechaRegistro": "2026-07-03T00:21:02.851132"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 66,
+      "IdExterno": "W0060",
+      "TipoOpinion": "WEB",
+      "IdCliente": 35,
+      "IdProducto": 16,
+      "IdFuente": 1,
+      "Fecha": "2025-05-16T00:00:00",
+      "Comentario": "Me encanta este producto, excelente calidad. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 3,
+      "FechaRegistro": "2026-07-03T00:21:02.851132"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 67,
+      "IdExterno": "W0061",
+      "TipoOpinion": "WEB",
+      "IdCliente": 6,
+      "IdProducto": 8,
+      "IdFuente": 1,
+      "Fecha": "2024-10-24T00:00:00",
+      "Comentario": "Me encanta este producto, excelente calidad. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 1,
+      "FechaRegistro": "2026-07-03T00:21:02.851132"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 68,
+      "IdExterno": "W0062",
+      "TipoOpinion": "WEB",
+      "IdCliente": 11,
+      "IdProducto": 15,
+      "IdFuente": 1,
+      "Fecha": "2025-08-21T00:00:00",
+      "Comentario": "Muy mala calidad, se rompi\u00F3 r\u00E1pido. No volver\u00EDa a comprar.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 3,
+      "FechaRegistro": "2026-07-03T00:21:02.851132"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 69,
+      "IdExterno": "W0063",
+      "TipoOpinion": "WEB",
+      "IdCliente": 19,
+      "IdProducto": 2,
+      "IdFuente": 1,
+      "Fecha": "2025-07-01T00:00:00",
+      "Comentario": "Calidad superior, muy contento. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 2,
+      "FechaRegistro": "2026-07-03T00:21:02.851132"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 70,
+      "IdExterno": "W0064",
+      "TipoOpinion": "WEB",
+      "IdCliente": 27,
+      "IdProducto": 17,
+      "IdFuente": 1,
+      "Fecha": "2025-06-18T00:00:00",
+      "Comentario": "No funciona como esperaba, decepcionado. No volver\u00EDa a comprar.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 2,
+      "FechaRegistro": "2026-07-03T00:21:02.851132"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 71,
+      "IdExterno": "W0065",
+      "TipoOpinion": "WEB",
+      "IdCliente": 40,
+      "IdProducto": 3,
+      "IdFuente": 1,
+      "Fecha": "2024-09-29T00:00:00",
+      "Comentario": "Satisface lo b\u00E1sico. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 2,
+      "FechaRegistro": "2026-07-03T00:21:02.851132"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 72,
+      "IdExterno": "W0066",
+      "TipoOpinion": "WEB",
+      "IdCliente": 38,
+      "IdProducto": 16,
+      "IdFuente": 1,
+      "Fecha": "2024-10-22T00:00:00",
+      "Comentario": "Calidad superior, muy contento. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 3,
+      "FechaRegistro": "2026-07-03T00:21:02.851132"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 73,
+      "IdExterno": "W0067",
+      "TipoOpinion": "WEB",
+      "IdCliente": 17,
+      "IdProducto": 15,
+      "IdFuente": 1,
+      "Fecha": "2025-04-19T00:00:00",
+      "Comentario": "No cumple con lo anunciado, insatisfecho. No volver\u00EDa a comprar.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 5,
+      "FechaRegistro": "2026-07-03T00:21:02.851132"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 74,
+      "IdExterno": "W0068",
+      "TipoOpinion": "WEB",
+      "IdCliente": 5,
+      "IdProducto": 6,
+      "IdFuente": 1,
+      "Fecha": "2024-11-17T00:00:00",
+      "Comentario": "Producto lleg\u00F3 r\u00E1pido y funciona perfecto. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 3,
+      "FechaRegistro": "2026-07-03T00:21:02.851132"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 75,
+      "IdExterno": "W0069",
+      "TipoOpinion": "WEB",
+      "IdCliente": 17,
+      "IdProducto": 14,
+      "IdFuente": 1,
+      "Fecha": "2025-06-04T00:00:00",
+      "Comentario": "Env\u00EDo tard\u00EDo y producto da\u00F1ado. No volver\u00EDa a comprar.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 4,
+      "FechaRegistro": "2026-07-03T00:21:02.851132"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 76,
+      "IdExterno": "W0070",
+      "TipoOpinion": "WEB",
+      "IdCliente": 7,
+      "IdProducto": 16,
+      "IdFuente": 1,
+      "Fecha": "2025-03-14T00:00:00",
+      "Comentario": "Gran relaci\u00F3n calidad-precio. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 5,
+      "FechaRegistro": "2026-07-03T00:21:02.851132"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 77,
+      "IdExterno": "W0071",
+      "TipoOpinion": "WEB",
+      "IdCliente": 19,
+      "IdProducto": 10,
+      "IdFuente": 1,
+      "Fecha": "2025-04-26T00:00:00",
+      "Comentario": "Calidad superior, muy contento. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 1,
+      "FechaRegistro": "2026-07-03T00:21:02.851132"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 78,
+      "IdExterno": "W0072",
+      "TipoOpinion": "WEB",
+      "IdCliente": 4,
+      "IdProducto": 19,
+      "IdFuente": 1,
+      "Fecha": "2025-04-20T00:00:00",
+      "Comentario": "Entrega correcta, sin comentarios adicionales. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 2,
+      "FechaRegistro": "2026-07-03T00:21:02.851132"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 79,
+      "IdExterno": "W0073",
+      "TipoOpinion": "WEB",
+      "IdCliente": 23,
+      "IdProducto": 20,
+      "IdFuente": 1,
+      "Fecha": "2024-10-31T00:00:00",
+      "Comentario": "Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 3,
+      "FechaRegistro": "2026-07-03T00:21:02.851132"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 80,
+      "IdExterno": "W0074",
+      "TipoOpinion": "WEB",
+      "IdCliente": 7,
+      "IdProducto": 5,
+      "IdFuente": 1,
+      "Fecha": "2025-04-08T00:00:00",
+      "Comentario": "Producto recibido, cumple su funci\u00F3n. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 4,
+      "FechaRegistro": "2026-07-03T00:21:02.851132"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 81,
+      "IdExterno": "W0075",
+      "TipoOpinion": "WEB",
+      "IdCliente": 38,
+      "IdProducto": 2,
+      "IdFuente": 1,
+      "Fecha": "2025-07-29T00:00:00",
+      "Comentario": "Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 3,
+      "FechaRegistro": "2026-07-03T00:21:02.851132"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 82,
+      "IdExterno": "W0076",
+      "TipoOpinion": "WEB",
+      "IdCliente": 27,
+      "IdProducto": 11,
+      "IdFuente": 1,
+      "Fecha": "2024-12-11T00:00:00",
+      "Comentario": "Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 3,
+      "FechaRegistro": "2026-07-03T00:21:02.851132"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 83,
+      "IdExterno": "W0077",
+      "TipoOpinion": "WEB",
+      "IdCliente": 33,
+      "IdProducto": 17,
+      "IdFuente": 1,
+      "Fecha": "2025-05-05T00:00:00",
+      "Comentario": "Informaci\u00F3n suficiente, sin mayor novedad. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 4,
+      "FechaRegistro": "2026-07-03T00:21:02.851132"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 84,
+      "IdExterno": "W0078",
+      "TipoOpinion": "WEB",
+      "IdCliente": 22,
+      "IdProducto": 10,
+      "IdFuente": 1,
+      "Fecha": "2025-08-06T00:00:00",
+      "Comentario": "Entrega correcta, sin comentarios adicionales. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 2,
+      "FechaRegistro": "2026-07-03T00:21:02.851132"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 85,
+      "IdExterno": "W0079",
+      "TipoOpinion": "WEB",
+      "IdCliente": 26,
+      "IdProducto": 8,
+      "IdFuente": 1,
+      "Fecha": "2025-03-10T00:00:00",
+      "Comentario": "Satisface lo b\u00E1sico. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 1,
+      "FechaRegistro": "2026-07-03T00:21:02.851132"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 86,
+      "IdExterno": "W0080",
+      "TipoOpinion": "WEB",
+      "IdCliente": 1,
+      "IdProducto": 13,
+      "IdFuente": 1,
+      "Fecha": "2025-01-24T00:00:00",
+      "Comentario": "Me encanta este producto, excelente calidad. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 3,
+      "FechaRegistro": "2026-07-03T00:21:02.851132"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 87,
+      "IdExterno": "W0081",
+      "TipoOpinion": "WEB",
+      "IdCliente": 38,
+      "IdProducto": 9,
+      "IdFuente": 1,
+      "Fecha": "2025-07-20T00:00:00",
+      "Comentario": "Producto lleg\u00F3 r\u00E1pido y funciona perfecto. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 2,
+      "FechaRegistro": "2026-07-03T00:21:02.851132"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 88,
+      "IdExterno": "W0082",
+      "TipoOpinion": "WEB",
+      "IdCliente": 2,
+      "IdProducto": 16,
+      "IdFuente": 1,
+      "Fecha": "2025-03-30T00:00:00",
+      "Comentario": "P\u00E9sima atenci\u00F3n al cliente. No volver\u00EDa a comprar.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 5,
+      "FechaRegistro": "2026-07-03T00:21:02.851132"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 89,
+      "IdExterno": "W0083",
+      "TipoOpinion": "WEB",
+      "IdCliente": 5,
+      "IdProducto": 8,
+      "IdFuente": 1,
+      "Fecha": "2024-09-20T00:00:00",
+      "Comentario": "No cumple con lo anunciado, insatisfecho. No volver\u00EDa a comprar.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 3,
+      "FechaRegistro": "2026-07-03T00:21:02.851132"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 90,
+      "IdExterno": "W0084",
+      "TipoOpinion": "WEB",
+      "IdCliente": 8,
+      "IdProducto": 14,
+      "IdFuente": 1,
+      "Fecha": "2025-04-11T00:00:00",
+      "Comentario": "Me encanta este producto, excelente calidad. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 4,
+      "FechaRegistro": "2026-07-03T00:21:02.851132"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 91,
+      "IdExterno": "W0085",
+      "TipoOpinion": "WEB",
+      "IdCliente": 7,
+      "IdProducto": 4,
+      "IdFuente": 1,
+      "Fecha": "2025-07-06T00:00:00",
+      "Comentario": "Gran relaci\u00F3n calidad-precio. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 4,
+      "FechaRegistro": "2026-07-03T00:21:02.854137"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 92,
+      "IdExterno": "W0086",
+      "TipoOpinion": "WEB",
+      "IdCliente": 24,
+      "IdProducto": 15,
+      "IdFuente": 1,
+      "Fecha": "2025-02-11T00:00:00",
+      "Comentario": "P\u00E9sima atenci\u00F3n al cliente. No volver\u00EDa a comprar.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 5,
+      "FechaRegistro": "2026-07-03T00:21:02.854137"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 93,
+      "IdExterno": "W0087",
+      "TipoOpinion": "WEB",
+      "IdCliente": 27,
+      "IdProducto": 5,
+      "IdFuente": 1,
+      "Fecha": "2024-11-02T00:00:00",
+      "Comentario": "No cumple con lo anunciado, insatisfecho. No volver\u00EDa a comprar.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 4,
+      "FechaRegistro": "2026-07-03T00:21:02.854137"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 94,
+      "IdExterno": "W0088",
+      "TipoOpinion": "WEB",
+      "IdCliente": 3,
+      "IdProducto": 9,
+      "IdFuente": 1,
+      "Fecha": "2025-01-29T00:00:00",
+      "Comentario": "No funciona como esperaba, decepcionado. No volver\u00EDa a comprar.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 4,
+      "FechaRegistro": "2026-07-03T00:21:02.854137"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 95,
+      "IdExterno": "W0089",
+      "TipoOpinion": "WEB",
+      "IdCliente": 24,
+      "IdProducto": 8,
+      "IdFuente": 1,
+      "Fecha": "2024-12-09T00:00:00",
+      "Comentario": "Producto lleg\u00F3 r\u00E1pido y funciona perfecto. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 3,
+      "FechaRegistro": "2026-07-03T00:21:02.854137"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 96,
+      "IdExterno": "W0090",
+      "TipoOpinion": "WEB",
+      "IdCliente": 26,
+      "IdProducto": 2,
+      "IdFuente": 1,
+      "Fecha": "2025-01-24T00:00:00",
+      "Comentario": "Me encanta este producto, excelente calidad. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 1,
+      "FechaRegistro": "2026-07-03T00:21:02.854137"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 97,
+      "IdExterno": "W0091",
+      "TipoOpinion": "WEB",
+      "IdCliente": 39,
+      "IdProducto": 7,
+      "IdFuente": 1,
+      "Fecha": "2025-03-27T00:00:00",
+      "Comentario": "Producto recibido, cumple su funci\u00F3n. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 2,
+      "FechaRegistro": "2026-07-03T00:21:02.854137"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 98,
+      "IdExterno": "W0092",
+      "TipoOpinion": "WEB",
+      "IdCliente": 37,
+      "IdProducto": 5,
+      "IdFuente": 1,
+      "Fecha": "2025-05-30T00:00:00",
+      "Comentario": "Gran relaci\u00F3n calidad-precio. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 5,
+      "FechaRegistro": "2026-07-03T00:21:02.854137"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 99,
+      "IdExterno": "W0093",
+      "TipoOpinion": "WEB",
+      "IdCliente": 15,
+      "IdProducto": 7,
+      "IdFuente": 1,
+      "Fecha": "2024-11-12T00:00:00",
+      "Comentario": "Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 1,
+      "FechaRegistro": "2026-07-03T00:21:02.854137"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 100,
+      "IdExterno": "W0094",
+      "TipoOpinion": "WEB",
+      "IdCliente": 10,
+      "IdProducto": 9,
+      "IdFuente": 1,
+      "Fecha": "2025-05-08T00:00:00",
+      "Comentario": "Satisface lo b\u00E1sico. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 2,
+      "FechaRegistro": "2026-07-03T00:21:02.854137"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 101,
+      "IdExterno": "W0095",
+      "TipoOpinion": "WEB",
+      "IdCliente": 2,
+      "IdProducto": 4,
+      "IdFuente": 1,
+      "Fecha": "2025-05-15T00:00:00",
+      "Comentario": "Producto lleg\u00F3 r\u00E1pido y funciona perfecto. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 5,
+      "FechaRegistro": "2026-07-03T00:21:02.854137"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 102,
+      "IdExterno": "W0096",
+      "TipoOpinion": "WEB",
+      "IdCliente": 2,
+      "IdProducto": 11,
+      "IdFuente": 1,
+      "Fecha": "2025-07-11T00:00:00",
+      "Comentario": "Me encanta este producto, excelente calidad. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 4,
+      "FechaRegistro": "2026-07-03T00:21:02.854137"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 103,
+      "IdExterno": "W0097",
+      "TipoOpinion": "WEB",
+      "IdCliente": 8,
+      "IdProducto": 17,
+      "IdFuente": 1,
+      "Fecha": "2025-01-27T00:00:00",
+      "Comentario": "Entrega correcta, sin comentarios adicionales. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 3,
+      "FechaRegistro": "2026-07-03T00:21:02.854137"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 104,
+      "IdExterno": "W0098",
+      "TipoOpinion": "WEB",
+      "IdCliente": 38,
+      "IdProducto": 17,
+      "IdFuente": 1,
+      "Fecha": "2025-05-23T00:00:00",
+      "Comentario": "Gran relaci\u00F3n calidad-precio. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 5,
+      "FechaRegistro": "2026-07-03T00:21:02.854137"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 105,
+      "IdExterno": "W0099",
+      "TipoOpinion": "WEB",
+      "IdCliente": 34,
+      "IdProducto": 2,
+      "IdFuente": 1,
+      "Fecha": "2025-08-13T00:00:00",
+      "Comentario": "Me encanta este producto, excelente calidad. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 4,
+      "FechaRegistro": "2026-07-03T00:21:02.854137"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 106,
+      "IdExterno": "W0100",
+      "TipoOpinion": "WEB",
+      "IdCliente": 28,
+      "IdProducto": 13,
+      "IdFuente": 1,
+      "Fecha": "2024-09-14T00:00:00",
+      "Comentario": "No cumple con lo anunciado, insatisfecho. No volver\u00EDa a comprar.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 4,
+      "FechaRegistro": "2026-07-03T00:21:02.854137"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 107,
+      "IdExterno": "W0101",
+      "TipoOpinion": "WEB",
+      "IdCliente": 6,
+      "IdProducto": 3,
+      "IdFuente": 1,
+      "Fecha": "2025-08-11T00:00:00",
+      "Comentario": "Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 2,
+      "FechaRegistro": "2026-07-03T00:21:02.854137"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 108,
+      "IdExterno": "W0102",
+      "TipoOpinion": "WEB",
+      "IdCliente": 40,
+      "IdProducto": 9,
+      "IdFuente": 1,
+      "Fecha": "2024-09-14T00:00:00",
+      "Comentario": "P\u00E9sima atenci\u00F3n al cliente. No volver\u00EDa a comprar.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 3,
+      "FechaRegistro": "2026-07-03T00:21:02.854137"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 109,
+      "IdExterno": "W0103",
+      "TipoOpinion": "WEB",
+      "IdCliente": 39,
+      "IdProducto": 13,
+      "IdFuente": 1,
+      "Fecha": "2024-12-29T00:00:00",
+      "Comentario": "No cumple con lo anunciado, insatisfecho. No volver\u00EDa a comprar.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 5,
+      "FechaRegistro": "2026-07-03T00:21:02.854137"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 110,
+      "IdExterno": "W0104",
+      "TipoOpinion": "WEB",
+      "IdCliente": 7,
+      "IdProducto": 14,
+      "IdFuente": 1,
+      "Fecha": "2024-10-13T00:00:00",
+      "Comentario": "Producto recibido, cumple su funci\u00F3n. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 5,
+      "FechaRegistro": "2026-07-03T00:21:02.854137"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 111,
+      "IdExterno": "W0105",
+      "TipoOpinion": "WEB",
+      "IdCliente": 28,
+      "IdProducto": 7,
+      "IdFuente": 1,
+      "Fecha": "2025-02-14T00:00:00",
+      "Comentario": "No funciona como esperaba, decepcionado. No volver\u00EDa a comprar.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 3,
+      "FechaRegistro": "2026-07-03T00:21:02.854137"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 112,
+      "IdExterno": "W0106",
+      "TipoOpinion": "WEB",
+      "IdCliente": 26,
+      "IdProducto": 15,
+      "IdFuente": 1,
+      "Fecha": "2025-04-06T00:00:00",
+      "Comentario": "Me encanta este producto, excelente calidad. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 4,
+      "FechaRegistro": "2026-07-03T00:21:02.854137"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 113,
+      "IdExterno": "W0107",
+      "TipoOpinion": "WEB",
+      "IdCliente": 17,
+      "IdProducto": 11,
+      "IdFuente": 1,
+      "Fecha": "2024-09-27T00:00:00",
+      "Comentario": "Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 4,
+      "FechaRegistro": "2026-07-03T00:21:02.854137"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 114,
+      "IdExterno": "W0108",
+      "TipoOpinion": "WEB",
+      "IdCliente": 6,
+      "IdProducto": 3,
+      "IdFuente": 1,
+      "Fecha": "2025-02-04T00:00:00",
+      "Comentario": "Producto recibido, cumple su funci\u00F3n. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 1,
+      "FechaRegistro": "2026-07-03T00:21:02.854137"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 115,
+      "IdExterno": "W0109",
+      "TipoOpinion": "WEB",
+      "IdCliente": 9,
+      "IdProducto": 12,
+      "IdFuente": 1,
+      "Fecha": "2024-11-30T00:00:00",
+      "Comentario": "P\u00E9sima atenci\u00F3n al cliente. No volver\u00EDa a comprar.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 5,
+      "FechaRegistro": "2026-07-03T00:21:02.854137"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 116,
+      "IdExterno": "W0110",
+      "TipoOpinion": "WEB",
+      "IdCliente": 8,
+      "IdProducto": 11,
+      "IdFuente": 1,
+      "Fecha": "2025-08-18T00:00:00",
+      "Comentario": "Calidad superior, muy contento. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 3,
+      "FechaRegistro": "2026-07-03T00:21:02.854137"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 117,
+      "IdExterno": "W0111",
+      "TipoOpinion": "WEB",
+      "IdCliente": 20,
+      "IdProducto": 20,
+      "IdFuente": 1,
+      "Fecha": "2024-12-28T00:00:00",
+      "Comentario": "Gran relaci\u00F3n calidad-precio. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 2,
+      "FechaRegistro": "2026-07-03T00:21:02.854137"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 118,
+      "IdExterno": "W0112",
+      "TipoOpinion": "WEB",
+      "IdCliente": 31,
+      "IdProducto": 5,
+      "IdFuente": 1,
+      "Fecha": "2025-03-18T00:00:00",
+      "Comentario": "Me encanta este producto, excelente calidad. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 5,
+      "FechaRegistro": "2026-07-03T00:21:02.854137"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 119,
+      "IdExterno": "W0113",
+      "TipoOpinion": "WEB",
+      "IdCliente": 8,
+      "IdProducto": 12,
+      "IdFuente": 1,
+      "Fecha": "2025-05-21T00:00:00",
+      "Comentario": "Satisface lo b\u00E1sico. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 4,
+      "FechaRegistro": "2026-07-03T00:21:02.854137"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 120,
+      "IdExterno": "W0114",
+      "TipoOpinion": "WEB",
+      "IdCliente": 40,
+      "IdProducto": 18,
+      "IdFuente": 1,
+      "Fecha": "2025-08-31T00:00:00",
+      "Comentario": "P\u00E9sima atenci\u00F3n al cliente. No volver\u00EDa a comprar.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 5,
+      "FechaRegistro": "2026-07-03T00:21:02.854137"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 121,
+      "IdExterno": "W0115",
+      "TipoOpinion": "WEB",
+      "IdCliente": 2,
+      "IdProducto": 9,
+      "IdFuente": 1,
+      "Fecha": "2025-03-24T00:00:00",
+      "Comentario": "Producto lleg\u00F3 r\u00E1pido y funciona perfecto. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 3,
+      "FechaRegistro": "2026-07-03T00:21:02.854137"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 122,
+      "IdExterno": "W0116",
+      "TipoOpinion": "WEB",
+      "IdCliente": 12,
+      "IdProducto": 1,
+      "IdFuente": 1,
+      "Fecha": "2024-10-12T00:00:00",
+      "Comentario": "Satisface lo b\u00E1sico. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 4,
+      "FechaRegistro": "2026-07-03T00:21:02.854137"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 123,
+      "IdExterno": "W0117",
+      "TipoOpinion": "WEB",
+      "IdCliente": 10,
+      "IdProducto": 3,
+      "IdFuente": 1,
+      "Fecha": "2025-07-29T00:00:00",
+      "Comentario": "Producto recibido, cumple su funci\u00F3n. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 5,
+      "FechaRegistro": "2026-07-03T00:21:02.854137"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 124,
+      "IdExterno": "W0118",
+      "TipoOpinion": "WEB",
+      "IdCliente": 25,
+      "IdProducto": 7,
+      "IdFuente": 1,
+      "Fecha": "2025-06-25T00:00:00",
+      "Comentario": "Producto lleg\u00F3 r\u00E1pido y funciona perfecto. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 3,
+      "FechaRegistro": "2026-07-03T00:21:02.854137"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 125,
+      "IdExterno": "W0119",
+      "TipoOpinion": "WEB",
+      "IdCliente": 21,
+      "IdProducto": 10,
+      "IdFuente": 1,
+      "Fecha": "2024-11-12T00:00:00",
+      "Comentario": "Satisface lo b\u00E1sico. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 1,
+      "FechaRegistro": "2026-07-03T00:21:02.854137"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 126,
+      "IdExterno": "W0120",
+      "TipoOpinion": "WEB",
+      "IdCliente": 10,
+      "IdProducto": 2,
+      "IdFuente": 1,
+      "Fecha": "2025-08-19T00:00:00",
+      "Comentario": "Gran relaci\u00F3n calidad-precio. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 1,
+      "FechaRegistro": "2026-07-03T00:21:02.854137"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 127,
+      "IdExterno": "W0121",
+      "TipoOpinion": "WEB",
+      "IdCliente": 29,
+      "IdProducto": 9,
+      "IdFuente": 1,
+      "Fecha": "2024-11-07T00:00:00",
+      "Comentario": "No cumple con lo anunciado, insatisfecho. No volver\u00EDa a comprar.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 4,
+      "FechaRegistro": "2026-07-03T00:21:02.854137"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 128,
+      "IdExterno": "W0122",
+      "TipoOpinion": "WEB",
+      "IdCliente": 18,
+      "IdProducto": 14,
+      "IdFuente": 1,
+      "Fecha": "2025-07-17T00:00:00",
+      "Comentario": "Gran relaci\u00F3n calidad-precio. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 3,
+      "FechaRegistro": "2026-07-03T00:21:02.854137"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 129,
+      "IdExterno": "W0123",
+      "TipoOpinion": "WEB",
+      "IdCliente": 8,
+      "IdProducto": 14,
+      "IdFuente": 1,
+      "Fecha": "2025-01-07T00:00:00",
+      "Comentario": "Gran relaci\u00F3n calidad-precio. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 5,
+      "FechaRegistro": "2026-07-03T00:21:02.854137"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 130,
+      "IdExterno": "W0124",
+      "TipoOpinion": "WEB",
+      "IdCliente": 3,
+      "IdProducto": 10,
+      "IdFuente": 1,
+      "Fecha": "2025-08-16T00:00:00",
+      "Comentario": "Gran relaci\u00F3n calidad-precio. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 1,
+      "FechaRegistro": "2026-07-03T00:21:02.854137"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 131,
+      "IdExterno": "W0125",
+      "TipoOpinion": "WEB",
+      "IdCliente": 20,
+      "IdProducto": 7,
+      "IdFuente": 1,
+      "Fecha": "2025-05-06T00:00:00",
+      "Comentario": "Informaci\u00F3n suficiente, sin mayor novedad. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 3,
+      "FechaRegistro": "2026-07-03T00:21:02.854137"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 132,
+      "IdExterno": "W0126",
+      "TipoOpinion": "WEB",
+      "IdCliente": 8,
+      "IdProducto": 11,
+      "IdFuente": 1,
+      "Fecha": "2025-06-16T00:00:00",
+      "Comentario": "Calidad superior, muy contento. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 2,
+      "FechaRegistro": "2026-07-03T00:21:02.854137"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 133,
+      "IdExterno": "W0127",
+      "TipoOpinion": "WEB",
+      "IdCliente": 35,
+      "IdProducto": 13,
+      "IdFuente": 1,
+      "Fecha": "2024-12-01T00:00:00",
+      "Comentario": "Satisface lo b\u00E1sico. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 3,
+      "FechaRegistro": "2026-07-03T00:21:02.8561368"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 134,
+      "IdExterno": "W0128",
+      "TipoOpinion": "WEB",
+      "IdCliente": 26,
+      "IdProducto": 3,
+      "IdFuente": 1,
+      "Fecha": "2025-02-02T00:00:00",
+      "Comentario": "Producto recibido, cumple su funci\u00F3n. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 1,
+      "FechaRegistro": "2026-07-03T00:21:02.8561368"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 135,
+      "IdExterno": "W0129",
+      "TipoOpinion": "WEB",
+      "IdCliente": 5,
+      "IdProducto": 15,
+      "IdFuente": 1,
+      "Fecha": "2025-02-06T00:00:00",
+      "Comentario": "Satisface lo b\u00E1sico. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 5,
+      "FechaRegistro": "2026-07-03T00:21:02.8561368"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 136,
+      "IdExterno": "W0130",
+      "TipoOpinion": "WEB",
+      "IdCliente": 27,
+      "IdProducto": 13,
+      "IdFuente": 1,
+      "Fecha": "2025-09-03T00:00:00",
+      "Comentario": "Calidad superior, muy contento. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 3,
+      "FechaRegistro": "2026-07-03T00:21:02.8561368"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 137,
+      "IdExterno": "W0131",
+      "TipoOpinion": "WEB",
+      "IdCliente": 40,
+      "IdProducto": 6,
+      "IdFuente": 1,
+      "Fecha": "2025-07-30T00:00:00",
+      "Comentario": "Env\u00EDo tard\u00EDo y producto da\u00F1ado. No volver\u00EDa a comprar.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 4,
+      "FechaRegistro": "2026-07-03T00:21:02.8561368"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 138,
+      "IdExterno": "W0132",
+      "TipoOpinion": "WEB",
+      "IdCliente": 16,
+      "IdProducto": 4,
+      "IdFuente": 1,
+      "Fecha": "2024-12-19T00:00:00",
+      "Comentario": "Calidad superior, muy contento. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 1,
+      "FechaRegistro": "2026-07-03T00:21:02.8561368"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 139,
+      "IdExterno": "W0133",
+      "TipoOpinion": "WEB",
+      "IdCliente": 20,
+      "IdProducto": 13,
+      "IdFuente": 1,
+      "Fecha": "2025-03-27T00:00:00",
+      "Comentario": "Informaci\u00F3n suficiente, sin mayor novedad. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 2,
+      "FechaRegistro": "2026-07-03T00:21:02.8561368"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 140,
+      "IdExterno": "W0134",
+      "TipoOpinion": "WEB",
+      "IdCliente": 33,
+      "IdProducto": 3,
+      "IdFuente": 1,
+      "Fecha": "2024-12-26T00:00:00",
+      "Comentario": "P\u00E9sima atenci\u00F3n al cliente. No volver\u00EDa a comprar.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 2,
+      "FechaRegistro": "2026-07-03T00:21:02.8561368"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 141,
+      "IdExterno": "W0135",
+      "TipoOpinion": "WEB",
+      "IdCliente": 23,
+      "IdProducto": 12,
+      "IdFuente": 1,
+      "Fecha": "2025-05-16T00:00:00",
+      "Comentario": "Informaci\u00F3n suficiente, sin mayor novedad. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 1,
+      "FechaRegistro": "2026-07-03T00:21:02.8561368"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 142,
+      "IdExterno": "W0136",
+      "TipoOpinion": "WEB",
+      "IdCliente": 17,
+      "IdProducto": 5,
+      "IdFuente": 1,
+      "Fecha": "2025-06-27T00:00:00",
+      "Comentario": "Gran relaci\u00F3n calidad-precio. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 1,
+      "FechaRegistro": "2026-07-03T00:21:02.8561368"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 143,
+      "IdExterno": "W0137",
+      "TipoOpinion": "WEB",
+      "IdCliente": 32,
+      "IdProducto": 6,
+      "IdFuente": 1,
+      "Fecha": "2024-11-21T00:00:00",
+      "Comentario": "P\u00E9sima atenci\u00F3n al cliente. No volver\u00EDa a comprar.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 4,
+      "FechaRegistro": "2026-07-03T00:21:02.8561368"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 144,
+      "IdExterno": "W0138",
+      "TipoOpinion": "WEB",
+      "IdCliente": 40,
+      "IdProducto": 19,
+      "IdFuente": 1,
+      "Fecha": "2025-06-28T00:00:00",
+      "Comentario": "Producto lleg\u00F3 r\u00E1pido y funciona perfecto. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 4,
+      "FechaRegistro": "2026-07-03T00:21:02.8561368"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 145,
+      "IdExterno": "W0139",
+      "TipoOpinion": "WEB",
+      "IdCliente": 31,
+      "IdProducto": 3,
+      "IdFuente": 1,
+      "Fecha": "2025-04-26T00:00:00",
+      "Comentario": "Producto lleg\u00F3 r\u00E1pido y funciona perfecto. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 5,
+      "FechaRegistro": "2026-07-03T00:21:02.8561368"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 146,
+      "IdExterno": "W0140",
+      "TipoOpinion": "WEB",
+      "IdCliente": 23,
+      "IdProducto": 2,
+      "IdFuente": 1,
+      "Fecha": "2025-01-20T00:00:00",
+      "Comentario": "Env\u00EDo tard\u00EDo y producto da\u00F1ado. No volver\u00EDa a comprar.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 4,
+      "FechaRegistro": "2026-07-03T00:21:02.8561368"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 147,
+      "IdExterno": "W0141",
+      "TipoOpinion": "WEB",
+      "IdCliente": 4,
+      "IdProducto": 2,
+      "IdFuente": 1,
+      "Fecha": "2025-08-05T00:00:00",
+      "Comentario": "Producto lleg\u00F3 r\u00E1pido y funciona perfecto. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 1,
+      "FechaRegistro": "2026-07-03T00:21:02.8561368"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 148,
+      "IdExterno": "W0142",
+      "TipoOpinion": "WEB",
+      "IdCliente": 39,
+      "IdProducto": 20,
+      "IdFuente": 1,
+      "Fecha": "2024-11-20T00:00:00",
+      "Comentario": "No cumple con lo anunciado, insatisfecho. No volver\u00EDa a comprar.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 5,
+      "FechaRegistro": "2026-07-03T00:21:02.8561368"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 149,
+      "IdExterno": "W0143",
+      "TipoOpinion": "WEB",
+      "IdCliente": 29,
+      "IdProducto": 2,
+      "IdFuente": 1,
+      "Fecha": "2024-10-15T00:00:00",
+      "Comentario": "Satisface lo b\u00E1sico. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 2,
+      "FechaRegistro": "2026-07-03T00:21:02.8561368"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 150,
+      "IdExterno": "W0144",
+      "TipoOpinion": "WEB",
+      "IdCliente": 39,
+      "IdProducto": 11,
+      "IdFuente": 1,
+      "Fecha": "2025-08-13T00:00:00",
+      "Comentario": "No funciona como esperaba, decepcionado. No volver\u00EDa a comprar.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 4,
+      "FechaRegistro": "2026-07-03T00:21:02.8561368"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 151,
+      "IdExterno": "W0145",
+      "TipoOpinion": "WEB",
+      "IdCliente": 22,
+      "IdProducto": 4,
+      "IdFuente": 1,
+      "Fecha": "2024-12-29T00:00:00",
+      "Comentario": "Producto recibido, cumple su funci\u00F3n. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 2,
+      "FechaRegistro": "2026-07-03T00:21:02.8561368"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 152,
+      "IdExterno": "W0146",
+      "TipoOpinion": "WEB",
+      "IdCliente": 16,
+      "IdProducto": 2,
+      "IdFuente": 1,
+      "Fecha": "2024-12-19T00:00:00",
+      "Comentario": "Entrega correcta, sin comentarios adicionales. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 5,
+      "FechaRegistro": "2026-07-03T00:21:02.8561368"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 153,
+      "IdExterno": "W0147",
+      "TipoOpinion": "WEB",
+      "IdCliente": 11,
+      "IdProducto": 20,
+      "IdFuente": 1,
+      "Fecha": "2025-02-27T00:00:00",
+      "Comentario": "Producto lleg\u00F3 r\u00E1pido y funciona perfecto. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 4,
+      "FechaRegistro": "2026-07-03T00:21:02.8561368"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 154,
+      "IdExterno": "W0148",
+      "TipoOpinion": "WEB",
+      "IdCliente": 39,
+      "IdProducto": 11,
+      "IdFuente": 1,
+      "Fecha": "2025-08-11T00:00:00",
+      "Comentario": "Producto lleg\u00F3 r\u00E1pido y funciona perfecto. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 3,
+      "FechaRegistro": "2026-07-03T00:21:02.8561368"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 155,
+      "IdExterno": "W0149",
+      "TipoOpinion": "WEB",
+      "IdCliente": 36,
+      "IdProducto": 4,
+      "IdFuente": 1,
+      "Fecha": "2025-05-07T00:00:00",
+      "Comentario": "Env\u00EDo tard\u00EDo y producto da\u00F1ado. No volver\u00EDa a comprar.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 5,
+      "FechaRegistro": "2026-07-03T00:21:02.8561368"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 156,
+      "IdExterno": "W0150",
+      "TipoOpinion": "WEB",
+      "IdCliente": 22,
+      "IdProducto": 5,
+      "IdFuente": 1,
+      "Fecha": "2025-03-18T00:00:00",
+      "Comentario": "Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 3,
+      "FechaRegistro": "2026-07-03T00:21:02.8561368"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 157,
+      "IdExterno": "W0151",
+      "TipoOpinion": "WEB",
+      "IdCliente": 9,
+      "IdProducto": 13,
+      "IdFuente": 1,
+      "Fecha": "2025-04-08T00:00:00",
+      "Comentario": "Muy mala calidad, se rompi\u00F3 r\u00E1pido. No volver\u00EDa a comprar.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 5,
+      "FechaRegistro": "2026-07-03T00:21:02.8561368"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 158,
+      "IdExterno": "W0152",
+      "TipoOpinion": "WEB",
+      "IdCliente": 22,
+      "IdProducto": 13,
+      "IdFuente": 1,
+      "Fecha": "2025-07-28T00:00:00",
+      "Comentario": "Satisface lo b\u00E1sico. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 4,
+      "FechaRegistro": "2026-07-03T00:21:02.8561368"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 159,
+      "IdExterno": "W0153",
+      "TipoOpinion": "WEB",
+      "IdCliente": 24,
+      "IdProducto": 17,
+      "IdFuente": 1,
+      "Fecha": "2025-06-13T00:00:00",
+      "Comentario": "Producto lleg\u00F3 r\u00E1pido y funciona perfecto. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 2,
+      "FechaRegistro": "2026-07-03T00:21:02.8561368"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 160,
+      "IdExterno": "W0154",
+      "TipoOpinion": "WEB",
+      "IdCliente": 32,
+      "IdProducto": 11,
+      "IdFuente": 1,
+      "Fecha": "2025-06-26T00:00:00",
+      "Comentario": "Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 1,
+      "FechaRegistro": "2026-07-03T00:21:02.8561368"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 161,
+      "IdExterno": "W0155",
+      "TipoOpinion": "WEB",
+      "IdCliente": 7,
+      "IdProducto": 10,
+      "IdFuente": 1,
+      "Fecha": "2024-12-18T00:00:00",
+      "Comentario": "P\u00E9sima atenci\u00F3n al cliente. No volver\u00EDa a comprar.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 1,
+      "FechaRegistro": "2026-07-03T00:21:02.8561368"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 162,
+      "IdExterno": "W0156",
+      "TipoOpinion": "WEB",
+      "IdCliente": 40,
+      "IdProducto": 11,
+      "IdFuente": 1,
+      "Fecha": "2025-06-27T00:00:00",
+      "Comentario": "Calidad superior, muy contento. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 2,
+      "FechaRegistro": "2026-07-03T00:21:02.8561368"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 163,
+      "IdExterno": "W0157",
+      "TipoOpinion": "WEB",
+      "IdCliente": 40,
+      "IdProducto": 6,
+      "IdFuente": 1,
+      "Fecha": "2025-02-01T00:00:00",
+      "Comentario": "Informaci\u00F3n suficiente, sin mayor novedad. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 1,
+      "FechaRegistro": "2026-07-03T00:21:02.8561368"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 164,
+      "IdExterno": "W0158",
+      "TipoOpinion": "WEB",
+      "IdCliente": 24,
+      "IdProducto": 14,
+      "IdFuente": 1,
+      "Fecha": "2025-01-29T00:00:00",
+      "Comentario": "No funciona como esperaba, decepcionado. No volver\u00EDa a comprar.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 5,
+      "FechaRegistro": "2026-07-03T00:21:02.8561368"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 165,
+      "IdExterno": "W0159",
+      "TipoOpinion": "WEB",
+      "IdCliente": 29,
+      "IdProducto": 10,
+      "IdFuente": 1,
+      "Fecha": "2025-04-08T00:00:00",
+      "Comentario": "Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 4,
+      "FechaRegistro": "2026-07-03T00:21:02.8561368"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 166,
+      "IdExterno": "W0160",
+      "TipoOpinion": "WEB",
+      "IdCliente": 24,
+      "IdProducto": 7,
+      "IdFuente": 1,
+      "Fecha": "2025-01-31T00:00:00",
+      "Comentario": "P\u00E9sima atenci\u00F3n al cliente. No volver\u00EDa a comprar.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 4,
+      "FechaRegistro": "2026-07-03T00:21:02.8561368"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 167,
+      "IdExterno": "W0161",
+      "TipoOpinion": "WEB",
+      "IdCliente": 25,
+      "IdProducto": 10,
+      "IdFuente": 1,
+      "Fecha": "2025-06-23T00:00:00",
+      "Comentario": "No cumple con lo anunciado, insatisfecho. No volver\u00EDa a comprar.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 2,
+      "FechaRegistro": "2026-07-03T00:21:02.8561368"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 168,
+      "IdExterno": "W0162",
+      "TipoOpinion": "WEB",
+      "IdCliente": 9,
+      "IdProducto": 20,
+      "IdFuente": 1,
+      "Fecha": "2024-10-20T00:00:00",
+      "Comentario": "Producto recibido, cumple su funci\u00F3n. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 4,
+      "FechaRegistro": "2026-07-03T00:21:02.8561368"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 169,
+      "IdExterno": "W0163",
+      "TipoOpinion": "WEB",
+      "IdCliente": 36,
+      "IdProducto": 12,
+      "IdFuente": 1,
+      "Fecha": "2025-07-12T00:00:00",
+      "Comentario": "Satisface lo b\u00E1sico. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 3,
+      "FechaRegistro": "2026-07-03T00:21:02.8561368"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 170,
+      "IdExterno": "W0164",
+      "TipoOpinion": "WEB",
+      "IdCliente": 11,
+      "IdProducto": 3,
+      "IdFuente": 1,
+      "Fecha": "2025-06-30T00:00:00",
+      "Comentario": "Gran relaci\u00F3n calidad-precio. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 4,
+      "FechaRegistro": "2026-07-03T00:21:02.8561368"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 171,
+      "IdExterno": "W0165",
+      "TipoOpinion": "WEB",
+      "IdCliente": 15,
+      "IdProducto": 3,
+      "IdFuente": 1,
+      "Fecha": "2025-08-31T00:00:00",
+      "Comentario": "Es lo que esperaba, nada excepcional. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 4,
+      "FechaRegistro": "2026-07-03T00:21:02.8561368"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 172,
+      "IdExterno": "W0166",
+      "TipoOpinion": "WEB",
+      "IdCliente": 26,
+      "IdProducto": 2,
+      "IdFuente": 1,
+      "Fecha": "2025-02-28T00:00:00",
+      "Comentario": "No funciona como esperaba, decepcionado. No volver\u00EDa a comprar.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 1,
+      "FechaRegistro": "2026-07-03T00:21:02.8561368"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 173,
+      "IdExterno": "W0167",
+      "TipoOpinion": "WEB",
+      "IdCliente": 15,
+      "IdProducto": 12,
+      "IdFuente": 1,
+      "Fecha": "2024-09-13T00:00:00",
+      "Comentario": "Me encanta este producto, excelente calidad. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 3,
+      "FechaRegistro": "2026-07-03T00:21:02.8561368"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 174,
+      "IdExterno": "W0168",
+      "TipoOpinion": "WEB",
+      "IdCliente": 9,
+      "IdProducto": 5,
+      "IdFuente": 1,
+      "Fecha": "2024-09-22T00:00:00",
+      "Comentario": "Calidad superior, muy contento. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 2,
+      "FechaRegistro": "2026-07-03T00:21:02.8561368"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 175,
+      "IdExterno": "W0169",
+      "TipoOpinion": "WEB",
+      "IdCliente": 29,
+      "IdProducto": 16,
+      "IdFuente": 1,
+      "Fecha": "2025-09-04T00:00:00",
+      "Comentario": "Muy mala calidad, se rompi\u00F3 r\u00E1pido. No volver\u00EDa a comprar.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 3,
+      "FechaRegistro": "2026-07-03T00:21:02.8711478"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 176,
+      "IdExterno": "W0170",
+      "TipoOpinion": "WEB",
+      "IdCliente": 10,
+      "IdProducto": 7,
+      "IdFuente": 1,
+      "Fecha": "2024-12-17T00:00:00",
+      "Comentario": "P\u00E9sima atenci\u00F3n al cliente. No volver\u00EDa a comprar.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 4,
+      "FechaRegistro": "2026-07-03T00:21:02.8711478"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 177,
+      "IdExterno": "W0171",
+      "TipoOpinion": "WEB",
+      "IdCliente": 19,
+      "IdProducto": 4,
+      "IdFuente": 1,
+      "Fecha": "2025-08-20T00:00:00",
+      "Comentario": "Me encanta este producto, excelente calidad. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 2,
+      "FechaRegistro": "2026-07-03T00:21:02.8711478"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 178,
+      "IdExterno": "W0172",
+      "TipoOpinion": "WEB",
+      "IdCliente": 40,
+      "IdProducto": 14,
+      "IdFuente": 1,
+      "Fecha": "2025-01-01T00:00:00",
+      "Comentario": "Muy mala calidad, se rompi\u00F3 r\u00E1pido. No volver\u00EDa a comprar.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 5,
+      "FechaRegistro": "2026-07-03T00:21:02.8711478"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 179,
+      "IdExterno": "W0173",
+      "TipoOpinion": "WEB",
+      "IdCliente": 2,
+      "IdProducto": 18,
+      "IdFuente": 1,
+      "Fecha": "2025-05-13T00:00:00",
+      "Comentario": "P\u00E9sima atenci\u00F3n al cliente. No volver\u00EDa a comprar.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 2,
+      "FechaRegistro": "2026-07-03T00:21:02.8711478"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 180,
+      "IdExterno": "W0174",
+      "TipoOpinion": "WEB",
+      "IdCliente": 28,
+      "IdProducto": 10,
+      "IdFuente": 1,
+      "Fecha": "2025-05-13T00:00:00",
+      "Comentario": "Producto lleg\u00F3 r\u00E1pido y funciona perfecto. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 5,
+      "FechaRegistro": "2026-07-03T00:21:02.8711478"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 181,
+      "IdExterno": "W0175",
+      "TipoOpinion": "WEB",
+      "IdCliente": 12,
+      "IdProducto": 14,
+      "IdFuente": 1,
+      "Fecha": "2024-12-19T00:00:00",
+      "Comentario": "Muy mala calidad, se rompi\u00F3 r\u00E1pido. No volver\u00EDa a comprar.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 3,
+      "FechaRegistro": "2026-07-03T00:21:02.8711478"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 182,
+      "IdExterno": "W0176",
+      "TipoOpinion": "WEB",
+      "IdCliente": 34,
+      "IdProducto": 3,
+      "IdFuente": 1,
+      "Fecha": "2024-12-04T00:00:00",
+      "Comentario": "P\u00E9sima atenci\u00F3n al cliente. No volver\u00EDa a comprar.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 1,
+      "FechaRegistro": "2026-07-03T00:21:02.8711478"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 183,
+      "IdExterno": "W0177",
+      "TipoOpinion": "WEB",
+      "IdCliente": 31,
+      "IdProducto": 13,
+      "IdFuente": 1,
+      "Fecha": "2025-03-06T00:00:00",
+      "Comentario": "Calidad superior, muy contento. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 3,
+      "FechaRegistro": "2026-07-03T00:21:02.8711478"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 184,
+      "IdExterno": "W0178",
+      "TipoOpinion": "WEB",
+      "IdCliente": 23,
+      "IdProducto": 1,
+      "IdFuente": 1,
+      "Fecha": "2025-05-13T00:00:00",
+      "Comentario": "Es lo que esperaba, nada excepcional. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 1,
+      "FechaRegistro": "2026-07-03T00:21:02.8711478"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 185,
+      "IdExterno": "W0179",
+      "TipoOpinion": "WEB",
+      "IdCliente": 22,
+      "IdProducto": 19,
+      "IdFuente": 1,
+      "Fecha": "2024-12-08T00:00:00",
+      "Comentario": "Producto lleg\u00F3 r\u00E1pido y funciona perfecto. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 3,
+      "FechaRegistro": "2026-07-03T00:21:02.8711478"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 186,
+      "IdExterno": "W0180",
+      "TipoOpinion": "WEB",
+      "IdCliente": 30,
+      "IdProducto": 6,
+      "IdFuente": 1,
+      "Fecha": "2024-10-25T00:00:00",
+      "Comentario": "Entrega correcta, sin comentarios adicionales. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 2,
+      "FechaRegistro": "2026-07-03T00:21:02.8711478"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 187,
+      "IdExterno": "W0181",
+      "TipoOpinion": "WEB",
+      "IdCliente": 5,
+      "IdProducto": 5,
+      "IdFuente": 1,
+      "Fecha": "2025-08-26T00:00:00",
+      "Comentario": "Entrega correcta, sin comentarios adicionales. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 3,
+      "FechaRegistro": "2026-07-03T00:21:02.8711478"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 188,
+      "IdExterno": "W0182",
+      "TipoOpinion": "WEB",
+      "IdCliente": 3,
+      "IdProducto": 7,
+      "IdFuente": 1,
+      "Fecha": "2025-04-05T00:00:00",
+      "Comentario": "Producto recibido, cumple su funci\u00F3n. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 3,
+      "FechaRegistro": "2026-07-03T00:21:02.8711478"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 189,
+      "IdExterno": "W0183",
+      "TipoOpinion": "WEB",
+      "IdCliente": 26,
+      "IdProducto": 17,
+      "IdFuente": 1,
+      "Fecha": "2025-01-14T00:00:00",
+      "Comentario": "Satisface lo b\u00E1sico. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 3,
+      "FechaRegistro": "2026-07-03T00:21:02.8711478"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 190,
+      "IdExterno": "W0184",
+      "TipoOpinion": "WEB",
+      "IdCliente": 13,
+      "IdProducto": 2,
+      "IdFuente": 1,
+      "Fecha": "2024-10-13T00:00:00",
+      "Comentario": "Me encanta este producto, excelente calidad. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 3,
+      "FechaRegistro": "2026-07-03T00:21:02.8711478"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 191,
+      "IdExterno": "W0185",
+      "TipoOpinion": "WEB",
+      "IdCliente": 8,
+      "IdProducto": 9,
+      "IdFuente": 1,
+      "Fecha": "2025-02-21T00:00:00",
+      "Comentario": "Entrega correcta, sin comentarios adicionales. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 4,
+      "FechaRegistro": "2026-07-03T00:21:02.8711478"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 192,
+      "IdExterno": "W0186",
+      "TipoOpinion": "WEB",
+      "IdCliente": 22,
+      "IdProducto": 13,
+      "IdFuente": 1,
+      "Fecha": "2024-09-24T00:00:00",
+      "Comentario": "Entrega correcta, sin comentarios adicionales. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 4,
+      "FechaRegistro": "2026-07-03T00:21:02.8711478"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 193,
+      "IdExterno": "W0187",
+      "TipoOpinion": "WEB",
+      "IdCliente": 34,
+      "IdProducto": 12,
+      "IdFuente": 1,
+      "Fecha": "2025-02-08T00:00:00",
+      "Comentario": "Me encanta este producto, excelente calidad. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 1,
+      "FechaRegistro": "2026-07-03T00:21:02.8711478"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 194,
+      "IdExterno": "W0188",
+      "TipoOpinion": "WEB",
+      "IdCliente": 39,
+      "IdProducto": 14,
+      "IdFuente": 1,
+      "Fecha": "2024-12-08T00:00:00",
+      "Comentario": "Informaci\u00F3n suficiente, sin mayor novedad. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 3,
+      "FechaRegistro": "2026-07-03T00:21:02.8711478"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 195,
+      "IdExterno": "W0189",
+      "TipoOpinion": "WEB",
+      "IdCliente": 7,
+      "IdProducto": 11,
+      "IdFuente": 1,
+      "Fecha": "2025-04-10T00:00:00",
+      "Comentario": "Producto lleg\u00F3 r\u00E1pido y funciona perfecto. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 4,
+      "FechaRegistro": "2026-07-03T00:21:02.8711478"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 196,
+      "IdExterno": "W0190",
+      "TipoOpinion": "WEB",
+      "IdCliente": 28,
+      "IdProducto": 20,
+      "IdFuente": 1,
+      "Fecha": "2025-03-18T00:00:00",
+      "Comentario": "Calidad superior, muy contento. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 4,
+      "FechaRegistro": "2026-07-03T00:21:02.8711478"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 197,
+      "IdExterno": "W0191",
+      "TipoOpinion": "WEB",
+      "IdCliente": 23,
+      "IdProducto": 2,
+      "IdFuente": 1,
+      "Fecha": "2025-04-26T00:00:00",
+      "Comentario": "No cumple con lo anunciado, insatisfecho. No volver\u00EDa a comprar.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 1,
+      "FechaRegistro": "2026-07-03T00:21:02.8711478"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 198,
+      "IdExterno": "W0192",
+      "TipoOpinion": "WEB",
+      "IdCliente": 26,
+      "IdProducto": 3,
+      "IdFuente": 1,
+      "Fecha": "2025-08-29T00:00:00",
+      "Comentario": "Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 2,
+      "FechaRegistro": "2026-07-03T00:21:02.8711478"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 199,
+      "IdExterno": "W0193",
+      "TipoOpinion": "WEB",
+      "IdCliente": 29,
+      "IdProducto": 20,
+      "IdFuente": 1,
+      "Fecha": "2025-05-16T00:00:00",
+      "Comentario": "Me encanta este producto, excelente calidad. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 3,
+      "FechaRegistro": "2026-07-03T00:21:02.8711478"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 200,
+      "IdExterno": "W0194",
+      "TipoOpinion": "WEB",
+      "IdCliente": 25,
+      "IdProducto": 12,
+      "IdFuente": 1,
+      "Fecha": "2024-11-08T00:00:00",
+      "Comentario": "Producto recibido, cumple su funci\u00F3n. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 2,
+      "FechaRegistro": "2026-07-03T00:21:02.8711478"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 201,
+      "IdExterno": "W0195",
+      "TipoOpinion": "WEB",
+      "IdCliente": 24,
+      "IdProducto": 15,
+      "IdFuente": 1,
+      "Fecha": "2024-11-24T00:00:00",
+      "Comentario": "Me encanta este producto, excelente calidad. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 2,
+      "FechaRegistro": "2026-07-03T00:21:02.8711478"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 202,
+      "IdExterno": "W0196",
+      "TipoOpinion": "WEB",
+      "IdCliente": 24,
+      "IdProducto": 17,
+      "IdFuente": 1,
+      "Fecha": "2025-05-09T00:00:00",
+      "Comentario": "Producto lleg\u00F3 r\u00E1pido y funciona perfecto. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 1,
+      "FechaRegistro": "2026-07-03T00:21:02.8711478"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 203,
+      "IdExterno": "W0197",
+      "TipoOpinion": "WEB",
+      "IdCliente": 12,
+      "IdProducto": 1,
+      "IdFuente": 1,
+      "Fecha": "2024-11-30T00:00:00",
+      "Comentario": "No cumple con lo anunciado, insatisfecho. No volver\u00EDa a comprar.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 1,
+      "FechaRegistro": "2026-07-03T00:21:02.8711478"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 204,
+      "IdExterno": "W0198",
+      "TipoOpinion": "WEB",
+      "IdCliente": 17,
+      "IdProducto": 9,
+      "IdFuente": 1,
+      "Fecha": "2024-11-04T00:00:00",
+      "Comentario": "Informaci\u00F3n suficiente, sin mayor novedad. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 3,
+      "FechaRegistro": "2026-07-03T00:21:02.8711478"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 205,
+      "IdExterno": "W0199",
+      "TipoOpinion": "WEB",
+      "IdCliente": 13,
+      "IdProducto": 16,
+      "IdFuente": 1,
+      "Fecha": "2025-01-25T00:00:00",
+      "Comentario": "Me encanta este producto, excelente calidad. Muy recomendable.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 2,
+      "FechaRegistro": "2026-07-03T00:21:02.8711478"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 206,
+      "IdExterno": "W0200",
+      "TipoOpinion": "WEB",
+      "IdCliente": 6,
+      "IdProducto": 15,
+      "IdFuente": 1,
+      "Fecha": "2024-10-07T00:00:00",
+      "Comentario": "Es lo que esperaba, nada excepcional. OK.",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": 3,
+      "FechaRegistro": "2026-07-03T00:21:02.8711478"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 207,
+      "IdExterno": "T0001",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 19,
+      "IdProducto": 3,
+      "IdFuente": 5,
+      "Fecha": "2025-06-15T00:00:00",
+      "Comentario": "Informaci\u00F3n suficiente, sin mayor novedad",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9510928"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 208,
+      "IdExterno": "T0005",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 31,
+      "IdProducto": 10,
+      "IdFuente": 5,
+      "Fecha": "2025-09-04T00:00:00",
+      "Comentario": "No cumple con lo anunciado, insatisfecho",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9510928"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 209,
+      "IdExterno": "T0007",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 36,
+      "IdProducto": 17,
+      "IdFuente": 6,
+      "Fecha": "2025-07-20T00:00:00",
+      "Comentario": "No funciona como esperaba, decepcionado",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9510928"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 210,
+      "IdExterno": "T0009",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 21,
+      "IdProducto": 10,
+      "IdFuente": 7,
+      "Fecha": "2025-07-09T00:00:00",
+      "Comentario": "Informaci\u00F3n suficiente, sin mayor novedad",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9510928"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 211,
+      "IdExterno": "T0012",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 40,
+      "IdProducto": 5,
+      "IdFuente": 7,
+      "Fecha": "2025-07-03T00:00:00",
+      "Comentario": "Satisface lo b\u00E1sico",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9510928"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 212,
+      "IdExterno": "T0015",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 35,
+      "IdProducto": 1,
+      "IdFuente": 7,
+      "Fecha": "2025-08-13T00:00:00",
+      "Comentario": "Producto lleg\u00F3 r\u00E1pido y funciona perfecto",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9510928"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 213,
+      "IdExterno": "T0016",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 5,
+      "IdProducto": 13,
+      "IdFuente": 7,
+      "Fecha": "2025-07-22T00:00:00",
+      "Comentario": "No funciona como esperaba, decepcionado",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9510928"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 214,
+      "IdExterno": "T0017",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 22,
+      "IdProducto": 16,
+      "IdFuente": 5,
+      "Fecha": "2025-08-04T00:00:00",
+      "Comentario": "Env\u00EDo tard\u00EDo y producto da\u00F1ado",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9510928"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 215,
+      "IdExterno": "T0019",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 30,
+      "IdProducto": 4,
+      "IdFuente": 6,
+      "Fecha": "2025-08-26T00:00:00",
+      "Comentario": "Calidad superior, muy contento",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9510928"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 216,
+      "IdExterno": "T0020",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 25,
+      "IdProducto": 4,
+      "IdFuente": 6,
+      "Fecha": "2025-08-24T00:00:00",
+      "Comentario": "Entrega correcta, sin comentarios adicionales",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9510928"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 217,
+      "IdExterno": "T0022",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 20,
+      "IdProducto": 17,
+      "IdFuente": 7,
+      "Fecha": "2025-07-11T00:00:00",
+      "Comentario": "Muy mala calidad, se rompi\u00F3 r\u00E1pido",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9510928"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 218,
+      "IdExterno": "T0024",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 31,
+      "IdProducto": 10,
+      "IdFuente": 6,
+      "Fecha": "2025-07-20T00:00:00",
+      "Comentario": "Me encanta este producto, excelente calidad",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9510928"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 219,
+      "IdExterno": "T0026",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 36,
+      "IdProducto": 13,
+      "IdFuente": 7,
+      "Fecha": "2025-09-04T00:00:00",
+      "Comentario": "Gran relaci\u00F3n calidad-precio",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9510928"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 220,
+      "IdExterno": "T0027",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 36,
+      "IdProducto": 13,
+      "IdFuente": 5,
+      "Fecha": "2025-06-27T00:00:00",
+      "Comentario": "Gran relaci\u00F3n calidad-precio",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9510928"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 221,
+      "IdExterno": "T0028",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 7,
+      "IdProducto": 4,
+      "IdFuente": 5,
+      "Fecha": "2025-07-29T00:00:00",
+      "Comentario": "Producto lleg\u00F3 r\u00E1pido y funciona perfecto",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9510928"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 222,
+      "IdExterno": "T0029",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 33,
+      "IdProducto": 5,
+      "IdFuente": 6,
+      "Fecha": "2025-09-09T00:00:00",
+      "Comentario": "Muy mala calidad, se rompi\u00F3 r\u00E1pido",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9510928"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 223,
+      "IdExterno": "T0034",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 8,
+      "IdProducto": 1,
+      "IdFuente": 7,
+      "Fecha": "2025-06-17T00:00:00",
+      "Comentario": "Satisface lo b\u00E1sico",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9510928"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 224,
+      "IdExterno": "T0035",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 17,
+      "IdProducto": 1,
+      "IdFuente": 5,
+      "Fecha": "2025-08-15T00:00:00",
+      "Comentario": "Satisface lo b\u00E1sico",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9510928"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 225,
+      "IdExterno": "T0036",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 11,
+      "IdProducto": 2,
+      "IdFuente": 7,
+      "Fecha": "2025-08-26T00:00:00",
+      "Comentario": "P\u00E9sima atenci\u00F3n al cliente",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9510928"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 226,
+      "IdExterno": "T0037",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 8,
+      "IdProducto": 8,
+      "IdFuente": 7,
+      "Fecha": "2025-07-22T00:00:00",
+      "Comentario": "Calidad superior, muy contento",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9510928"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 227,
+      "IdExterno": "T0038",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 14,
+      "IdProducto": 5,
+      "IdFuente": 7,
+      "Fecha": "2025-09-06T00:00:00",
+      "Comentario": "P\u00E9sima atenci\u00F3n al cliente",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9510928"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 228,
+      "IdExterno": "T0039",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 36,
+      "IdProducto": 5,
+      "IdFuente": 5,
+      "Fecha": "2025-07-27T00:00:00",
+      "Comentario": "Calidad superior, muy contento",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9510928"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 229,
+      "IdExterno": "T0044",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 18,
+      "IdProducto": 12,
+      "IdFuente": 5,
+      "Fecha": "2025-07-06T00:00:00",
+      "Comentario": "Gran relaci\u00F3n calidad-precio",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9510928"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 230,
+      "IdExterno": "T0046",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 6,
+      "IdProducto": 2,
+      "IdFuente": 5,
+      "Fecha": "2025-08-12T00:00:00",
+      "Comentario": "Calidad superior, muy contento",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9510928"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 231,
+      "IdExterno": "T0047",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 35,
+      "IdProducto": 16,
+      "IdFuente": 5,
+      "Fecha": "2025-08-10T00:00:00",
+      "Comentario": "Gran relaci\u00F3n calidad-precio",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9510928"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 232,
+      "IdExterno": "T0048",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 38,
+      "IdProducto": 5,
+      "IdFuente": 5,
+      "Fecha": "2025-07-08T00:00:00",
+      "Comentario": "Me encanta este producto, excelente calidad",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9510928"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 233,
+      "IdExterno": "T0051",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 13,
+      "IdProducto": 16,
+      "IdFuente": 7,
+      "Fecha": "2025-08-08T00:00:00",
+      "Comentario": "Es lo que esperaba, nada excepcional",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9510928"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 234,
+      "IdExterno": "T0054",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 19,
+      "IdProducto": 16,
+      "IdFuente": 7,
+      "Fecha": "2025-07-03T00:00:00",
+      "Comentario": "Producto recibido, cumple su funci\u00F3n",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9510928"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 235,
+      "IdExterno": "T0055",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 22,
+      "IdProducto": 20,
+      "IdFuente": 5,
+      "Fecha": "2025-07-12T00:00:00",
+      "Comentario": "Gran relaci\u00F3n calidad-precio",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9510928"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 236,
+      "IdExterno": "T0058",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 13,
+      "IdProducto": 10,
+      "IdFuente": 7,
+      "Fecha": "2025-07-10T00:00:00",
+      "Comentario": "Calidad superior, muy contento",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9510928"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 237,
+      "IdExterno": "T0059",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 7,
+      "IdProducto": 11,
+      "IdFuente": 7,
+      "Fecha": "2025-08-03T00:00:00",
+      "Comentario": "Muy satisfecho con la compra, lo recomiendo",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9510928"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 238,
+      "IdExterno": "T0060",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 25,
+      "IdProducto": 8,
+      "IdFuente": 7,
+      "Fecha": "2025-08-06T00:00:00",
+      "Comentario": "Producto lleg\u00F3 r\u00E1pido y funciona perfecto",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9510928"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 239,
+      "IdExterno": "T0064",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 15,
+      "IdProducto": 10,
+      "IdFuente": 7,
+      "Fecha": "2025-08-25T00:00:00",
+      "Comentario": "Muy satisfecho con la compra, lo recomiendo",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9510928"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 240,
+      "IdExterno": "T0068",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 37,
+      "IdProducto": 12,
+      "IdFuente": 5,
+      "Fecha": "2025-08-19T00:00:00",
+      "Comentario": "Gran relaci\u00F3n calidad-precio",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9510928"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 241,
+      "IdExterno": "T0069",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 11,
+      "IdProducto": 19,
+      "IdFuente": 7,
+      "Fecha": "2025-08-30T00:00:00",
+      "Comentario": "Gran relaci\u00F3n calidad-precio",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9510928"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 242,
+      "IdExterno": "T0071",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 27,
+      "IdProducto": 15,
+      "IdFuente": 5,
+      "Fecha": "2025-07-16T00:00:00",
+      "Comentario": "Muy mala calidad, se rompi\u00F3 r\u00E1pido",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9510928"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 243,
+      "IdExterno": "T0073",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 28,
+      "IdProducto": 19,
+      "IdFuente": 5,
+      "Fecha": "2025-09-06T00:00:00",
+      "Comentario": "Me encanta este producto, excelente calidad",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9510928"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 244,
+      "IdExterno": "T0077",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 23,
+      "IdProducto": 18,
+      "IdFuente": 7,
+      "Fecha": "2025-07-08T00:00:00",
+      "Comentario": "Gran relaci\u00F3n calidad-precio",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9510928"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 245,
+      "IdExterno": "T0080",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 10,
+      "IdProducto": 8,
+      "IdFuente": 6,
+      "Fecha": "2025-06-21T00:00:00",
+      "Comentario": "Me encanta este producto, excelente calidad",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9510928"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 246,
+      "IdExterno": "T0082",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 3,
+      "IdProducto": 3,
+      "IdFuente": 6,
+      "Fecha": "2025-09-08T00:00:00",
+      "Comentario": "Muy mala calidad, se rompi\u00F3 r\u00E1pido",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9510928"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 247,
+      "IdExterno": "T0083",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 35,
+      "IdProducto": 13,
+      "IdFuente": 6,
+      "Fecha": "2025-07-11T00:00:00",
+      "Comentario": "Me encanta este producto, excelente calidad",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9510928"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 248,
+      "IdExterno": "T0084",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 37,
+      "IdProducto": 10,
+      "IdFuente": 5,
+      "Fecha": "2025-08-03T00:00:00",
+      "Comentario": "Gran relaci\u00F3n calidad-precio",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9510928"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 249,
+      "IdExterno": "T0085",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 10,
+      "IdProducto": 8,
+      "IdFuente": 6,
+      "Fecha": "2025-07-23T00:00:00",
+      "Comentario": "Satisface lo b\u00E1sico",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9540978"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 250,
+      "IdExterno": "T0086",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 36,
+      "IdProducto": 10,
+      "IdFuente": 5,
+      "Fecha": "2025-06-19T00:00:00",
+      "Comentario": "Informaci\u00F3n suficiente, sin mayor novedad",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9540978"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 251,
+      "IdExterno": "T0087",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 4,
+      "IdProducto": 14,
+      "IdFuente": 5,
+      "Fecha": "2025-08-04T00:00:00",
+      "Comentario": "Entrega correcta, sin comentarios adicionales",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9540978"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 252,
+      "IdExterno": "T0088",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 20,
+      "IdProducto": 14,
+      "IdFuente": 7,
+      "Fecha": "2025-08-14T00:00:00",
+      "Comentario": "Gran relaci\u00F3n calidad-precio",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9540978"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 253,
+      "IdExterno": "T0089",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 10,
+      "IdProducto": 8,
+      "IdFuente": 5,
+      "Fecha": "2025-07-23T00:00:00",
+      "Comentario": "Producto recibido, cumple su funci\u00F3n",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9540978"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 254,
+      "IdExterno": "T0090",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 9,
+      "IdProducto": 14,
+      "IdFuente": 6,
+      "Fecha": "2025-08-02T00:00:00",
+      "Comentario": "Producto lleg\u00F3 r\u00E1pido y funciona perfecto",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9540978"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 255,
+      "IdExterno": "T0092",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 39,
+      "IdProducto": 2,
+      "IdFuente": 6,
+      "Fecha": "2025-06-30T00:00:00",
+      "Comentario": "Muy mala calidad, se rompi\u00F3 r\u00E1pido",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9540978"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 256,
+      "IdExterno": "T0093",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 14,
+      "IdProducto": 18,
+      "IdFuente": 7,
+      "Fecha": "2025-09-12T00:00:00",
+      "Comentario": "Es lo que esperaba, nada excepcional",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9540978"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 257,
+      "IdExterno": "T0097",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 33,
+      "IdProducto": 10,
+      "IdFuente": 6,
+      "Fecha": "2025-07-15T00:00:00",
+      "Comentario": "Entrega correcta, sin comentarios adicionales",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9540978"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 258,
+      "IdExterno": "T0100",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 13,
+      "IdProducto": 14,
+      "IdFuente": 5,
+      "Fecha": "2025-08-13T00:00:00",
+      "Comentario": "Calidad superior, muy contento",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9540978"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 259,
+      "IdExterno": "T0101",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 22,
+      "IdProducto": 16,
+      "IdFuente": 5,
+      "Fecha": "2025-06-23T00:00:00",
+      "Comentario": "Calidad superior, muy contento",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9540978"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 260,
+      "IdExterno": "T0102",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 23,
+      "IdProducto": 16,
+      "IdFuente": 7,
+      "Fecha": "2025-08-21T00:00:00",
+      "Comentario": "Gran relaci\u00F3n calidad-precio",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9540978"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 261,
+      "IdExterno": "T0105",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 33,
+      "IdProducto": 5,
+      "IdFuente": 5,
+      "Fecha": "2025-06-24T00:00:00",
+      "Comentario": "Muy mala calidad, se rompi\u00F3 r\u00E1pido",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9540978"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 262,
+      "IdExterno": "T0107",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 2,
+      "IdProducto": 18,
+      "IdFuente": 5,
+      "Fecha": "2025-08-08T00:00:00",
+      "Comentario": "Env\u00EDo tard\u00EDo y producto da\u00F1ado",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9540978"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 263,
+      "IdExterno": "T0108",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 28,
+      "IdProducto": 1,
+      "IdFuente": 6,
+      "Fecha": "2025-09-01T00:00:00",
+      "Comentario": "Informaci\u00F3n suficiente, sin mayor novedad",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9540978"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 264,
+      "IdExterno": "T0109",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 13,
+      "IdProducto": 17,
+      "IdFuente": 7,
+      "Fecha": "2025-08-10T00:00:00",
+      "Comentario": "Env\u00EDo tard\u00EDo y producto da\u00F1ado",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9540978"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 265,
+      "IdExterno": "T0110",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 26,
+      "IdProducto": 13,
+      "IdFuente": 5,
+      "Fecha": "2025-08-16T00:00:00",
+      "Comentario": "No funciona como esperaba, decepcionado",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9540978"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 266,
+      "IdExterno": "T0112",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 31,
+      "IdProducto": 13,
+      "IdFuente": 5,
+      "Fecha": "2025-08-23T00:00:00",
+      "Comentario": "Me encanta este producto, excelente calidad",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9540978"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 267,
+      "IdExterno": "T0113",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 28,
+      "IdProducto": 3,
+      "IdFuente": 5,
+      "Fecha": "2025-09-01T00:00:00",
+      "Comentario": "Env\u00EDo tard\u00EDo y producto da\u00F1ado",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9540978"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 268,
+      "IdExterno": "T0116",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 21,
+      "IdProducto": 2,
+      "IdFuente": 5,
+      "Fecha": "2025-08-26T00:00:00",
+      "Comentario": "Muy satisfecho con la compra, lo recomiendo",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9540978"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 269,
+      "IdExterno": "T0119",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 23,
+      "IdProducto": 3,
+      "IdFuente": 6,
+      "Fecha": "2025-09-04T00:00:00",
+      "Comentario": "Calidad superior, muy contento",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9540978"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 270,
+      "IdExterno": "T0122",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 25,
+      "IdProducto": 12,
+      "IdFuente": 5,
+      "Fecha": "2025-07-27T00:00:00",
+      "Comentario": "P\u00E9sima atenci\u00F3n al cliente",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9540978"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 271,
+      "IdExterno": "T0124",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 25,
+      "IdProducto": 3,
+      "IdFuente": 5,
+      "Fecha": "2025-07-26T00:00:00",
+      "Comentario": "Informaci\u00F3n suficiente, sin mayor novedad",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9540978"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 272,
+      "IdExterno": "T0125",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 6,
+      "IdProducto": 11,
+      "IdFuente": 7,
+      "Fecha": "2025-07-29T00:00:00",
+      "Comentario": "Producto lleg\u00F3 r\u00E1pido y funciona perfecto",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9540978"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 273,
+      "IdExterno": "T0126",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 6,
+      "IdProducto": 9,
+      "IdFuente": 5,
+      "Fecha": "2025-07-04T00:00:00",
+      "Comentario": "Calidad superior, muy contento",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9540978"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 274,
+      "IdExterno": "T0127",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 2,
+      "IdProducto": 17,
+      "IdFuente": 6,
+      "Fecha": "2025-06-29T00:00:00",
+      "Comentario": "Gran relaci\u00F3n calidad-precio",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9540978"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 275,
+      "IdExterno": "T0130",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 25,
+      "IdProducto": 17,
+      "IdFuente": 7,
+      "Fecha": "2025-08-10T00:00:00",
+      "Comentario": "Producto lleg\u00F3 r\u00E1pido y funciona perfecto",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9540978"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 276,
+      "IdExterno": "T0131",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 11,
+      "IdProducto": 16,
+      "IdFuente": 7,
+      "Fecha": "2025-07-14T00:00:00",
+      "Comentario": "No cumple con lo anunciado, insatisfecho",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9540978"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 277,
+      "IdExterno": "T0132",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 16,
+      "IdProducto": 3,
+      "IdFuente": 5,
+      "Fecha": "2025-06-27T00:00:00",
+      "Comentario": "Entrega correcta, sin comentarios adicionales",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9540978"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 278,
+      "IdExterno": "T0133",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 9,
+      "IdProducto": 7,
+      "IdFuente": 7,
+      "Fecha": "2025-06-26T00:00:00",
+      "Comentario": "Calidad superior, muy contento",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9540978"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 279,
+      "IdExterno": "T0135",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 21,
+      "IdProducto": 20,
+      "IdFuente": 7,
+      "Fecha": "2025-08-04T00:00:00",
+      "Comentario": "No funciona como esperaba, decepcionado",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9540978"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 280,
+      "IdExterno": "T0138",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 37,
+      "IdProducto": 13,
+      "IdFuente": 6,
+      "Fecha": "2025-06-18T00:00:00",
+      "Comentario": "Gran relaci\u00F3n calidad-precio",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9540978"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 281,
+      "IdExterno": "T0139",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 30,
+      "IdProducto": 18,
+      "IdFuente": 7,
+      "Fecha": "2025-08-07T00:00:00",
+      "Comentario": "Informaci\u00F3n suficiente, sin mayor novedad",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9540978"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 282,
+      "IdExterno": "T0142",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 39,
+      "IdProducto": 13,
+      "IdFuente": 5,
+      "Fecha": "2025-07-11T00:00:00",
+      "Comentario": "No cumple con lo anunciado, insatisfecho",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9540978"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 283,
+      "IdExterno": "T0143",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 24,
+      "IdProducto": 14,
+      "IdFuente": 5,
+      "Fecha": "2025-06-24T00:00:00",
+      "Comentario": "Satisface lo b\u00E1sico",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9540978"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 284,
+      "IdExterno": "T0144",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 16,
+      "IdProducto": 3,
+      "IdFuente": 6,
+      "Fecha": "2025-06-23T00:00:00",
+      "Comentario": "Env\u00EDo tard\u00EDo y producto da\u00F1ado",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9540978"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 285,
+      "IdExterno": "T0145",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 26,
+      "IdProducto": 20,
+      "IdFuente": 7,
+      "Fecha": "2025-08-31T00:00:00",
+      "Comentario": "Es lo que esperaba, nada excepcional",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9540978"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 286,
+      "IdExterno": "T0146",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 15,
+      "IdProducto": 1,
+      "IdFuente": 5,
+      "Fecha": "2025-07-01T00:00:00",
+      "Comentario": "P\u00E9sima atenci\u00F3n al cliente",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9540978"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 287,
+      "IdExterno": "T0147",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 24,
+      "IdProducto": 19,
+      "IdFuente": 5,
+      "Fecha": "2025-07-11T00:00:00",
+      "Comentario": "Gran relaci\u00F3n calidad-precio",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9540978"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 288,
+      "IdExterno": "T0148",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 2,
+      "IdProducto": 5,
+      "IdFuente": 7,
+      "Fecha": "2025-09-03T00:00:00",
+      "Comentario": "Env\u00EDo tard\u00EDo y producto da\u00F1ado",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9540978"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 289,
+      "IdExterno": "T0152",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 22,
+      "IdProducto": 4,
+      "IdFuente": 5,
+      "Fecha": "2025-08-13T00:00:00",
+      "Comentario": "No funciona como esperaba, decepcionado",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9540978"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 290,
+      "IdExterno": "T0153",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 11,
+      "IdProducto": 17,
+      "IdFuente": 7,
+      "Fecha": "2025-08-15T00:00:00",
+      "Comentario": "Calidad superior, muy contento",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9540978"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 291,
+      "IdExterno": "T0156",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 5,
+      "IdProducto": 7,
+      "IdFuente": 6,
+      "Fecha": "2025-07-29T00:00:00",
+      "Comentario": "P\u00E9sima atenci\u00F3n al cliente",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9681625"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 292,
+      "IdExterno": "T0157",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 8,
+      "IdProducto": 11,
+      "IdFuente": 5,
+      "Fecha": "2025-06-24T00:00:00",
+      "Comentario": "Calidad superior, muy contento",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9681625"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 293,
+      "IdExterno": "T0158",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 40,
+      "IdProducto": 11,
+      "IdFuente": 7,
+      "Fecha": "2025-07-30T00:00:00",
+      "Comentario": "Me encanta este producto, excelente calidad",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9681625"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 294,
+      "IdExterno": "T0161",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 10,
+      "IdProducto": 6,
+      "IdFuente": 5,
+      "Fecha": "2025-08-27T00:00:00",
+      "Comentario": "No cumple con lo anunciado, insatisfecho",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9681625"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 295,
+      "IdExterno": "T0162",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 12,
+      "IdProducto": 19,
+      "IdFuente": 5,
+      "Fecha": "2025-06-23T00:00:00",
+      "Comentario": "P\u00E9sima atenci\u00F3n al cliente",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9681625"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 296,
+      "IdExterno": "T0163",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 32,
+      "IdProducto": 6,
+      "IdFuente": 7,
+      "Fecha": "2025-07-18T00:00:00",
+      "Comentario": "Muy satisfecho con la compra, lo recomiendo",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9681625"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 297,
+      "IdExterno": "T0164",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 23,
+      "IdProducto": 20,
+      "IdFuente": 6,
+      "Fecha": "2025-08-20T00:00:00",
+      "Comentario": "Entrega correcta, sin comentarios adicionales",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9681625"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 298,
+      "IdExterno": "T0166",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 29,
+      "IdProducto": 16,
+      "IdFuente": 5,
+      "Fecha": "2025-09-10T00:00:00",
+      "Comentario": "Muy mala calidad, se rompi\u00F3 r\u00E1pido",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9681625"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 299,
+      "IdExterno": "T0167",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 18,
+      "IdProducto": 8,
+      "IdFuente": 6,
+      "Fecha": "2025-07-17T00:00:00",
+      "Comentario": "Producto lleg\u00F3 r\u00E1pido y funciona perfecto",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9681625"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 300,
+      "IdExterno": "T0169",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 35,
+      "IdProducto": 19,
+      "IdFuente": 5,
+      "Fecha": "2025-09-08T00:00:00",
+      "Comentario": "Es lo que esperaba, nada excepcional",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9681625"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 301,
+      "IdExterno": "T0170",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 28,
+      "IdProducto": 15,
+      "IdFuente": 7,
+      "Fecha": "2025-09-09T00:00:00",
+      "Comentario": "Muy satisfecho con la compra, lo recomiendo",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9681625"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 302,
+      "IdExterno": "T0171",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 6,
+      "IdProducto": 15,
+      "IdFuente": 6,
+      "Fecha": "2025-08-18T00:00:00",
+      "Comentario": "Muy mala calidad, se rompi\u00F3 r\u00E1pido",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9681625"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 303,
+      "IdExterno": "T0174",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 39,
+      "IdProducto": 12,
+      "IdFuente": 5,
+      "Fecha": "2025-08-07T00:00:00",
+      "Comentario": "Env\u00EDo tard\u00EDo y producto da\u00F1ado",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9681625"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 304,
+      "IdExterno": "T0175",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 33,
+      "IdProducto": 10,
+      "IdFuente": 6,
+      "Fecha": "2025-07-23T00:00:00",
+      "Comentario": "Producto recibido, cumple su funci\u00F3n",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9681625"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 305,
+      "IdExterno": "T0177",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 21,
+      "IdProducto": 8,
+      "IdFuente": 7,
+      "Fecha": "2025-08-26T00:00:00",
+      "Comentario": "Entrega correcta, sin comentarios adicionales",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9681625"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 306,
+      "IdExterno": "T0179",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 18,
+      "IdProducto": 3,
+      "IdFuente": 7,
+      "Fecha": "2025-07-13T00:00:00",
+      "Comentario": "Env\u00EDo tard\u00EDo y producto da\u00F1ado",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9681625"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 307,
+      "IdExterno": "T0180",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 6,
+      "IdProducto": 11,
+      "IdFuente": 5,
+      "Fecha": "2025-06-20T00:00:00",
+      "Comentario": "Entrega correcta, sin comentarios adicionales",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9681625"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 308,
+      "IdExterno": "T0182",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 21,
+      "IdProducto": 7,
+      "IdFuente": 5,
+      "Fecha": "2025-07-02T00:00:00",
+      "Comentario": "Es lo que esperaba, nada excepcional",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9681625"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 309,
+      "IdExterno": "T0183",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 32,
+      "IdProducto": 5,
+      "IdFuente": 6,
+      "Fecha": "2025-09-01T00:00:00",
+      "Comentario": "Producto recibido, cumple su funci\u00F3n",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9681625"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 310,
+      "IdExterno": "T0184",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 11,
+      "IdProducto": 15,
+      "IdFuente": 7,
+      "Fecha": "2025-08-19T00:00:00",
+      "Comentario": "Muy mala calidad, se rompi\u00F3 r\u00E1pido",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9681625"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 311,
+      "IdExterno": "T0186",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 24,
+      "IdProducto": 12,
+      "IdFuente": 6,
+      "Fecha": "2025-07-25T00:00:00",
+      "Comentario": "No funciona como esperaba, decepcionado",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9681625"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 312,
+      "IdExterno": "T0188",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 31,
+      "IdProducto": 4,
+      "IdFuente": 6,
+      "Fecha": "2025-07-09T00:00:00",
+      "Comentario": "Gran relaci\u00F3n calidad-precio",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9681625"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 313,
+      "IdExterno": "T0189",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 22,
+      "IdProducto": 15,
+      "IdFuente": 5,
+      "Fecha": "2025-08-28T00:00:00",
+      "Comentario": "Entrega correcta, sin comentarios adicionales",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9681625"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 314,
+      "IdExterno": "T0190",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 25,
+      "IdProducto": 16,
+      "IdFuente": 6,
+      "Fecha": "2025-08-04T00:00:00",
+      "Comentario": "Me encanta este producto, excelente calidad",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9681625"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 315,
+      "IdExterno": "T0192",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 37,
+      "IdProducto": 5,
+      "IdFuente": 7,
+      "Fecha": "2025-07-31T00:00:00",
+      "Comentario": "Muy satisfecho con la compra, lo recomiendo",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9681625"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 316,
+      "IdExterno": "T0196",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 6,
+      "IdProducto": 8,
+      "IdFuente": 5,
+      "Fecha": "2025-06-28T00:00:00",
+      "Comentario": "Gran relaci\u00F3n calidad-precio",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9681625"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 317,
+      "IdExterno": "T0198",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 26,
+      "IdProducto": 20,
+      "IdFuente": 6,
+      "Fecha": "2025-07-12T00:00:00",
+      "Comentario": "Me encanta este producto, excelente calidad",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9681625"
+    }
+  },
+  {
+    "Source": "dbo.Opiniones",
+    "DataType": "OpinionesBaseDatos",
+    "Data": {
+      "IdOpinion": 318,
+      "IdExterno": "T0199",
+      "TipoOpinion": "SOCIAL",
+      "IdCliente": 32,
+      "IdProducto": 13,
+      "IdFuente": 5,
+      "Fecha": "2025-09-12T00:00:00",
+      "Comentario": "Muy mala calidad, se rompi\u00F3 r\u00E1pido",
+      "Clasificacion": null,
+      "PuntajeSatisfaccion": null,
+      "Rating": null,
+      "FechaRegistro": "2026-07-03T00:21:02.9681625"
+    }
+  }
+]

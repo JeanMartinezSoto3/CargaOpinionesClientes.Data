@@ -19,6 +19,8 @@ public class DataWarehouseDbContext : DbContext
 
     public DbSet<DimFecha> DimFechas => Set<DimFecha>();
 
+    public DbSet<FactOpinion> FactOpiniones => Set<FactOpinion>();
+
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         base.OnModelCreating(modelBuilder);

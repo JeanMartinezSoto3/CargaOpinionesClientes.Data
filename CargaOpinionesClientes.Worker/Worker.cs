@@ -55,6 +55,13 @@ public class Worker : BackgroundService
                 "Proceso de extracción finalizado correctamente.");
 
             // =============================================
+            // CREAR SCOPE PARA EF CORE
+            // =============================================
+
+            using var scope =
+                _scopeFactory.CreateScope();
+
+            // =============================================
             // 2. CARGA DE DIMENSIONES
             // =============================================
 
@@ -63,38 +70,60 @@ public class Worker : BackgroundService
                 "INICIANDO CARGA DE DIMENSIONES...");
             Console.WriteLine();
 
-            _logger.LogInformation(
-                "Iniciando carga de dimensiones.");
-
-            using var scope =
-                _scopeFactory.CreateScope();
-
             var dimensionLoadService =
                 scope.ServiceProvider
-                    .GetRequiredService<IDimensionLoadService>();
+                    .GetRequiredService<
+                        IDimensionLoadService>();
 
-            await dimensionLoadService.LoadDimensionsAsync(
-                stoppingToken);
+            await dimensionLoadService
+                .LoadDimensionsAsync(
+                    stoppingToken);
+
+            _logger.LogInformation(
+                "Carga de dimensiones finalizada correctamente.");
+
+            // =============================================
+            // 3. CARGA DE FACTOPINIONES
+            // =============================================
+
+            Console.WriteLine();
+            Console.WriteLine(
+                "INICIANDO CARGA DE FACTOPINIONES...");
+            Console.WriteLine();
+
+            var factLoadService =
+                scope.ServiceProvider
+                    .GetRequiredService<
+                        IFactLoadService>();
+
+            await factLoadService
+                .LoadFactsAsync(
+                    stoppingToken);
+
+            _logger.LogInformation(
+                "Carga de FactOpiniones finalizada correctamente.");
 
             // =============================================
             // FIN
             // =============================================
 
-            _logger.LogInformation(
-                "Proceso ETL finalizado correctamente.");
+
 
             Console.WriteLine();
             Console.WriteLine(
                 "=======================================");
 
             Console.WriteLine(
-                " PROCESO FINALIZADO CORRECTAMENTE");
+                " PROCESO ETL FINALIZADO CORRECTAMENTE");
 
             Console.WriteLine(
                 "=======================================");
 
             Console.WriteLine(
-                "Extracción y carga de dimensiones completadas.");
+                "Extracción, dimensiones y facts completadas.");
+
+            _logger.LogInformation(
+                "Proceso ETL finalizado correctamente.");
         }
         catch (OperationCanceledException)
         {

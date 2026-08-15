@@ -48,6 +48,10 @@ builder.Services.AddScoped<
     IDimensionLoadService,
     DimensionLoadService>();
 
+builder.Services.AddScoped<
+    IFactLoadService,
+    FactLoadService>();
+
 builder.Services.AddSingleton<
     StagingWriterService>();
 
